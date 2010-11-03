@@ -1,0 +1,40 @@
+%
+% loaded files: 1
+%
+% > ch2 1
+%
+% temporary files: 0
+%
+%
+% commands: 26
+%
+\thisissectionseparator{-}%
+\thisisutilityversion{2008.10.14}%
+\usedmapfile{=}{original-base}%
+\usedmapfile{=}{original-ams-base}%
+\usedmapfile{=}{original-public-lm}%
+\usedmapfile{=}{lm-ec}%
+\usedmapfile{=}{lm-math}%
+\usedmapfile{=}{lm-rm}%
+\usedmapfile{=}{original-ams-euler}%
+\initializevariable\usedoutputdriver{pdftex}%
+\twopassentry{floatdata}{1}{1::3}%
+\twopassentry{list}{1}{1::1:4:n:0}%
+\twopassentry{floatdata}{2}{2::18}%
+\listentry{table}{1}{1}{Format options}{2--0-0-0-0-0-0-0--18}{18}%
+\twopassentry{floatdata}{3}{3::19}%
+\listentry{table}{2}{2}{Some \type {git log} options}{2--0-0-0-0-0-0-0--19}{19}%
+\twopassentry{floatdata}{4}{4::20}%
+\listentry{table}{3}{3}{Some \type {git log} filter options}{2--0-0-0-0-0-0-0--20}{20}%
+\twopassentry{floatdata}{5}{5::21}%
+\initializevariable\usedcolorchannels{s}%
+\initializevariable\currentstrategypass{1}%
+\initializevariable\totalnofpositions{0}%
+\initializevariable\totalnofMPgraphics{0}%
+\initializevariable\totalnofparbackgrounds{0}%
+\initializevariable\lastpage{37}%
+\initializevariable\lastpagenumber{37}%
+%
+% programs: 0
+%
+\endinput

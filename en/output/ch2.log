@@ -1,0 +1,554 @@
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=cont-en 2010.7.21)  2 NOV 2010 23:34
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+ (/usr/local/texlive/2010/texmf/web2c/natural.tcx)
+**output/ch2.tex \emergencyend
+(./output/ch2.tex
+
+ConTeXt  ver: 2010.05.24 13:05 MKII  fmt: 2010.7.21  int: english/english
+
+system          : cont-new loaded
+(/usr/local/texlive/2010/texmf-dist/tex/context/base/cont-new.tex
+systems         : beware: some patches loaded from cont-new.tex
+(/usr/local/texlive/2010/texmf-dist/tex/context/base/cont-new.mkii))
+system          : cont-fil loaded
+(/usr/local/texlive/2010/texmf-dist/tex/context/base/cont-fil.tex
+loading         : ConTeXt File Synonyms
+)
+system          : cont-sys loaded
+(/usr/local/texlive/2010/texmf-config/tex/context/user/cont-sys.tex
+(/usr/local/texlive/2010/texmf-dist/tex/context/base/type-def.mkii)
+(/usr/local/texlive/2010/texmf-dist/tex/context/base/type-siz.mkii)
+(/usr/local/texlive/2010/texmf-dist/tex/context/base/type-one.mkii))
+system          : ch2.top loaded
+(./ch2.top)
+bodyfont        : 12pt rm is loaded
+language        : patterns nl->texnansi:texnansi->1->2:2 nl->ec:ec->2->2:2 us->
+ec:ec->3->2:3 de->texnansi:texnansi->4->3:3 de->ec:ec->5->3:3 da->ec:ec->6->2:2
+ sv->ec:ec->7->2:2 gb->ec:ec->8->2:2 fr->texnansi:texnansi->9->2:2 fr->ec:ec->1
+0->2:2 es->ec:ec->11->2:2 ca->ec:ec->12->2:2 it->texnansi:texnansi->13->2:2 it-
+>ec:ec->14->2:2 la->ec:ec->15->2:2 pt->texnansi:texnansi->16->2:2 pt->ec:ec->17
+->2:2 ro->ec:ec->18->2:2 pl->pl0:pl0->19->2:2 pl->ec:ec->20->2:2 pl->qx:qx->21-
+>2:2 cs->il2:il2->22->2:2 cs->ec:ec->23->2:2 sk->il2:il2->24->2:2 sk->ec:ec->25
+->2:2 hr->ec:ec->26->2:2 sl->ec:ec->27->2:2 tr->ec:ec->28->2:2 tk->ec:ec->29->1
+:2 lt->l7x:l7x->30->2:2 agr->agr:agr->32->2:2 fi->ec:ec->33->2:2 hu->ec:ec->34-
+>2:2 ru->t2a:t2a->36->2:2 uk->t2a:t2a->37->3:3 loaded
+specials        : dvips loaded
+\openout3 = `ch2.tui'.
+
+\openout0 = `ch2-mpgraph.mp'.
+
+\openout0 = `mpgraph.mp'.
+
+systems         : system commands are enabled
+language        : language en is active
+specials        : loading definition file tpd
+(/usr/local/texlive/2010/texmf-dist/tex/context/base/spec-tpd.mkii
+specials        : loading definition file fdf
+(/usr/local/texlive/2010/texmf-dist/tex/context/base/spec-fdf.mkii))
+color           : mpcmyk color space is supported
+color           : mpspot color space is supported
+color           : system rgb is global activated
+interaction     : active
+(./ch2.tuo) (./ch2.tuo) (./ch2.tuo) (./ch2.tuo) (./ch2.tuo) (./ch2.tuo)
+(./ch2.tuo) (./ch2.tuo) (./ch2.tuo) (./ch2.tuo) (./ch2.tuo)
+publications    : file ch2.bbl not found, waiting for bibtex
+(./ch2.tuo)
+systems         : begin file ch2 at line 53
+subject         : - Git Basics
+subsubject      : - Getting a Git Repository
+subsubsubject   : - Initializing a Repository in an Existing Directory
+subsubsubject   : - Cloning an Existing Repository
+fonts           : resetting map file list
+{/usr/local/texlive/2010/texmf-dist/fonts/map/pdftex/context/original-empty.map
+}
+fonts           : using map file: original-base
+{/usr/local/texlive/2010/texmf-dist/fonts/map/pdftex/context/original-base.map}
+fonts           : using map file: original-ams-base
+{/usr/local/texlive/2010/texmf-dist/fonts/map/pdftex/context/original-ams-base.
+map}
+fonts           : using map file: original-public-lm
+{/usr/local/texlive/2010/texmf-dist/fonts/map/pdftex/context/original-public-lm
+.map}
+fonts           : using map file: lm-ec
+{/usr/local/texlive/2010/texmf-dist/fonts/map/dvips/lm/lm-ec.map}
+fonts           : using map file: lm-math
+{/usr/local/texlive/2010/texmf-dist/fonts/map/dvips/lm/lm-math.map}
+fonts           : using map file: lm-rm
+{/usr/local/texlive/2010/texmf-dist/fonts/map/dvips/lm/lm-rm.map}
+fonts           : using map file: original-ams-euler
+{/usr/local/texlive/2010/texmf-dist/fonts/map/pdftex/context/original-ams-euler
+.map} (/usr/local/texlive/2010/texmf-dist/tex/context/base/sort-def.mkii)
+(/usr/local/texlive/2010/texmf-dist/tex/context/base/sort-lan.mkii)
+interaction     : pdftex code inserted
+[1.1]
+Overfull \hbox (19.9346pt too wide) in paragraph at lines 142--148
+\*11ptrmtfrm*: uses the []| []\*11pttttftt*: git://[] []\*11ptrmtfrm*: pro-to-c
+ol, but you may also see []| []\*11pttttftt*: http(s)://[] []\*11ptrmtfrm*: or 
+[]| []\*11pttttftt*: user@server:/path.git[][]\*11ptrmtfrm*: ,
+
+\hbox(9.54787+3.71303)x397.485, glue set - 1.0
+.\*11ptrmtfrm*: u
+.\*11ptrmtfrm*: s
+.\*11ptrmtfrm*: e
+.\*11ptrmtfrm*: s
+.\glue 3.66666 plus 1.83333 minus 1.22221
+.etc.
+
+subsubject      : - Recording Changes to the Repository
+[2.2] <../figures/18333fig0201-tn.png>
+figures         : dimensions of ../figures/18333fig0201-tn.png loaded from figu
+refile itself
+(./ch2.tuo)
+floatblocks     : 1 placed
+subsubsubject   : - Checking the Status of Your Files
+[3.3]
+Overfull \hbox (0.98958pt too wide) in paragraph at lines 204--204
+[]|\*11pttttftt*: nothing added to commit but untracked files present (use "git
+ add" to
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: n
+.\*11pttttftt*: o
+.\*11pttttftt*: t
+.etc.
+
+subsubsubject   : - Tracking New Files
+subsubsubject   : - Staging Modified Files
+[4.4] [5.5]
+subsubsubject   : - Ignoring Files
+[6.6]
+Overfull \hbox (29.86455pt too wide) in paragraph at lines 391--391
+[]|\*11pttttftt*: !lib.a    # but do track lib.a, even though you're ignoring .
+a files above 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: !
+.\*11pttttftt*: l
+.\*11pttttftt*: i
+.etc.
+
+subsubsubject   : - Viewing Your Staged and Unstaged Changes
+[7.7] [8.8]
+Overfull \hbox (18.31456pt too wide) in paragraph at lines 472--472
+[]|\*11pttttftt*: +Grit is a Ruby library for extracting information from a Git
+ repository 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: +
+.\*11pttttftt*: G
+.\*11pttttftt*: r
+.etc.
+
+[9.9]
+subsubsubject   : - Committing Your Changes
+[10.10]
+subsubsubject   : - Skipping the Staging Area
+[11.11]
+subsubsubject   : - Removing Files
+[12.12]
+subsubsubject   : - Moving Files
+[13.13]
+subsubject      : - Viewing the Commit History
+[14.14] [15.15] [16.16]
+Overfull \hbox (6.76457pt too wide) in paragraph at lines 904--904
+[]|\*11pttttftt*: 085bb3bcb608e1e8451d4b2432f8ecbe6306e7e7 removed unnecessary 
+test code 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: 0
+.\*11pttttftt*: 8
+.\*11pttttftt*: 5
+.etc.
+
+
+Overfull \hbox (0.98958pt too wide) in paragraph at lines 917--917
+[]|\*11pttttftt*: 085bb3b - Scott Chacon, 11 months ago : removed unnecessary t
+est code 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: 0
+.\*11pttttftt*: 8
+.\*11pttttftt*: 5
+.etc.
+
+[17.17]
+floatblocks     : 2 placed
+[18.18]
+Underfull \vbox (badness 10000) detected at line 1026
+
+\vbox(26.52182+0.0)x298.11374
+.\vbox(8.25+0.0)x298.11374
+..\hbox(8.25+2.75)x298.11374, glue set 0.52979
+...\hbox(0.0+0.0)x0.0
+...\*11ptrmtfrm*: D
+...\*11ptrmtfrm*: i
+...\*11ptrmtfrm*: s
+...\*11ptrmtfrm*: p
+...etc.
+..\penalty 4000
+..\glue(\baselineskip) 0.96304
+..\hbox(9.54787+3.71303)x298.11374, glue set 216.07298fil
+...\pdfliteral{0 g 0 G}
+...\rule(9.54787+3.71303)x0.0
+...\penalty 10000
+...\glue 0.0
+...\setlanguage0 (hyphenmin 2,3)
+...etc.
+..\glue(\baselineskip) 0.00002
+..etc.
+
+
+Underfull \vbox (badness 10000) detected at line 1033
+
+\vbox(26.52182+0.0)x298.11374
+.\vbox(8.25+0.0)x298.11374
+..\hbox(8.25+2.75)x298.11374, glue set 0.73958
+...\hbox(0.0+0.0)x0.0
+...\*11ptrmtfrm*: S
+...\*11ptrmtfrm*: h
+...\*11ptrmtfrm*: o
+...\kern-0.30557
+...etc.
+..\penalty 4000
+..\glue(\baselineskip) 2.93329
+..\hbox(7.57762+0.0)x298.11374, glue set 203.30063fil
+...\*11ptrmtfrm*: i
+...\*11ptrmtfrm*: n
+...\*11ptrmtfrm*: f
+...\*11ptrmtfrm*: o
+...\*11ptrmtfrm*: r
+...etc.
+..\glue(\baselineskip) 3.71304
+..etc.
+
+
+Underfull \vbox (badness 10000) detected at line 1037
+
+\vbox(26.52182+0.0)x298.11374
+.\vbox(7.57762+0.0)x298.11374
+..\hbox(7.57762+2.13887)x298.11374, glue set 0.76036
+...\hbox(0.0+0.0)x0.0
+...\*11ptrmtfrm*: S
+...\*11ptrmtfrm*: h
+...\*11ptrmtfrm*: o
+...\kern-0.30557
+...etc.
+..\penalty 4000
+..\glue(\baselineskip) 3.54442
+..\hbox(7.57762+0.0)x298.11374, glue set 218.30275fil
+...\*11ptrmtfrm*: i
+...\*11ptrmtfrm*: n
+...\*11ptrmtfrm*: s
+...\*11ptrmtfrm*: t
+...\*11ptrmtfrm*: e
+...etc.
+..\glue(\baselineskip) 3.71304
+..etc.
+
+
+Underfull \vbox (badness 10000) detected at line 1041
+
+\vbox(26.52182+0.0)x298.11374
+.\vbox(8.25+0.0)x298.11374
+..\hbox(8.25+2.75)x298.11374, glue set 0.40906
+...\hbox(0.0+0.0)x0.0
+...\*11ptrmtfrm*: D
+...\*11ptrmtfrm*: i
+...\*11ptrmtfrm*: s
+...\*11ptrmtfrm*: p
+...etc.
+..\penalty 4000
+..\glue(\baselineskip) 2.26091
+..\hbox(8.25+2.75)x298.11374, glue set 91.40823fil
+...\*11ptrmtfrm*: a
+...\*11ptrmtfrm*: g
+...\*11ptrmtfrm*: o
+...\*11ptrmtfrm*: 
+...\*11ptrmtfrm*: )
+...etc.
+..\glue(\baselineskip) 0.96304
+..etc.
+
+
+Underfull \vbox (badness 10000) detected at line 1045
+
+\vbox(26.52182+0.0)x298.11374
+.\vbox(7.57762+0.0)x298.11374
+..\hbox(7.57762+2.13887)x298.11374, glue set 0.1854
+...\hbox(0.0+0.0)x0.0
+...\*11ptrmtfrm*: D
+...\*11ptrmtfrm*: i
+...\*11ptrmtfrm*: s
+...\*11ptrmtfrm*: p
+...etc.
+..\penalty 4100
+..\glue(\baselineskip) 3.54442
+..\hbox(7.57762+2.13887)x298.11374, glue set 203.94144fil
+...\*11ptrmtfrm*: s
+...\*11ptrmtfrm*: i
+...\*11ptrmtfrm*: d
+...\*11ptrmtfrm*: e
+...\glue(\spaceskip) 3.66666
+...etc.
+..\glue(\baselineskip) 1.57417
+..etc.
+
+
+Underfull \vbox (badness 10000) detected at line 1050
+
+\vbox(39.78273+0.0)x298.11374
+.\vbox(7.57762+0.0)x298.11374
+..\hbox(7.57762+2.13887)x298.11374, glue set 0.45901
+...\hbox(0.0+0.0)x0.0
+...\*11ptrmtfrm*: S
+...\*11ptrmtfrm*: h
+...\*11ptrmtfrm*: o
+...\kern-0.30557
+...etc.
+..\penalty 2100
+..\glue(\baselineskip) 2.87204
+..\hbox(8.25+2.75)x298.11374, glue set 0.78815
+...\*11ptrmtfrm*: l
+...\*11ptrmtfrm*: i
+...\*11ptrmtfrm*: n
+...\*11ptrmtfrm*: e
+...\*11ptrmtfrm*: ,
+...etc.
+..\penalty 2000
+..etc.
+
+floatblocks     : 3 placed
+subsubsubject   : - Limiting Log Output
+[19.19]
+Underfull \vbox (badness 10000) detected at line 1108
+
+\vbox(26.52182+0.0)x278.23828
+.\vbox(7.57762+0.0)x278.23828
+..\hbox(7.57762+2.13887)x278.23828, glue set 0.95001
+...\hbox(0.0+0.0)x0.0
+...\*11ptrmtfrm*: L
+...\*11ptrmtfrm*: i
+...\*11ptrmtfrm*: m
+...\*11ptrmtfrm*: i
+...etc.
+..\penalty 4000
+..\glue(\baselineskip) 3.54442
+..\hbox(7.57762+0.0)x278.23828, glue set 254.40486fil
+...\*11ptrmtfrm*: d
+...\*11ptrmtfrm*: a
+...\*11ptrmtfrm*: t
+...\*11ptrmtfrm*: e
+...\*11ptrmtfrm*: .
+...etc.
+..\glue(\baselineskip) 3.71304
+..etc.
+
+
+Underfull \vbox (badness 10000) detected at line 1112
+
+\vbox(26.52182+0.0)x278.23828
+.\vbox(7.57762+0.0)x278.23828
+..\hbox(7.57762+2.13887)x278.23828, glue set 0.60834
+...\hbox(0.0+0.0)x0.0
+...\*11ptrmtfrm*: O
+...\*11ptrmtfrm*: n
+...\*11ptrmtfrm*: l
+...\*11ptrmtfrm*: y
+...etc.
+..\penalty 4000
+..\glue(\baselineskip) 3.54442
+..\hbox(7.57762+2.13887)x278.23828, glue set 184.27982fil
+...\*11ptrmtfrm*: t
+...\*11ptrmtfrm*: h
+...\*11ptrmtfrm*: e
+...\glue(\spaceskip) 3.66666
+...\*11ptrmtfrm*: s
+...etc.
+..\glue(\baselineskip) 1.57417
+..etc.
+
+
+Underfull \vbox (badness 10000) detected at line 1116
+
+\vbox(26.52182+0.0)x278.23828
+.\vbox(7.57762+0.0)x278.23828
+..\hbox(7.57762+2.13887)x278.23828, glue set 1.73613
+...\hbox(0.0+0.0)x0.0
+...\*11ptrmtfrm*: O
+...\*11ptrmtfrm*: n
+...\*11ptrmtfrm*: l
+...\*11ptrmtfrm*: y
+...etc.
+..\penalty 4000
+..\glue(\baselineskip) 3.54442
+..\hbox(7.57762+2.13887)x278.23828, glue set 141.74666fil
+...\*11ptrmtfrm*: m
+...\*11ptrmtfrm*: a
+...\*11ptrmtfrm*: t
+...\*11ptrmtfrm*: c
+...\kern-0.30557
+...etc.
+..\glue(\baselineskip) 1.57417
+..etc.
+
+floatblocks     : 4 placed
+[20.20]
+subsubsubject   : - Using a GUI to Visualize History
+ <../figures/18333fig0202-tn.png>
+figures         : dimensions of ../figures/18333fig0202-tn.png loaded from figu
+refile itself
+floatblocks     : 5 placed
+subsubject      : - Undoing Things
+subsubsubject   : - Changing Your Last Commit
+[21.21]
+subsubsubject   : - Unstaging a Staged File
+[22.22]
+Overfull \hbox (47.18953pt too wide) in paragraph at lines 1236--1236
+[]|\*11pttttftt*: #   (use "git checkout -- <file>..." to discard changes in wo
+rking directory) 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: #
+.\glue 5.775
+.\glue 5.775
+.etc.
+
+subsubsubject   : - Unmodifying a Modified File
+
+Overfull \hbox (47.18953pt too wide) in paragraph at lines 1257--1257
+[]|\*11pttttftt*: #   (use "git checkout -- <file>..." to discard changes in wo
+rking directory) 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: #
+.\glue 5.775
+.\glue 5.775
+.etc.
+
+[23.23]
+subsubject      : - Working with Remotes
+subsubsubject   : - Showing Your Remotes
+[24.24]
+subsubsubject   : - Adding Remote Repositories
+[25.25]
+subsubsubject   : - Fetching and Pulling from Your Remotes
+[26.26]
+subsubsubject   : - Pushing to Your Remotes
+subsubsubject   : - Inspecting a Remote
+[27.27]
+subsubsubject   : - Removing and Renaming Remotes
+[28.28]
+subsubject      : - Tagging
+subsubsubject   : - Listing Your Tags
+subsubsubject   : - Creating Tags
+[29.29]
+subsubsubject   : - Annotated Tags
+subsubsubject   : - Signed Tags
+[30.30]
+subsubsubject   : - Lightweight Tags
+[31.31]
+subsubsubject   : - Verifying Tags
+
+Overfull \hbox (12.53957pt too wide) in paragraph at lines 1706--1706
+[]|\*11pttttftt*: Minor fixes since 1.4.2, including git-mv and git-http with a
+lternates. 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: M
+.\*11pttttftt*: i
+.\*11pttttftt*: n
+.etc.
+
+
+Overfull \hbox (29.86455pt too wide) in paragraph at lines 1707--1707
+[]|\*11pttttftt*: gpg: Signature made Wed Sep 13 02:08:25 2006 PDT using DSA ke
+y ID F3119B9A 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: g
+.\*11pttttftt*: p
+.\*11pttttftt*: g
+.etc.
+
+
+Overfull \hbox (6.76457pt too wide) in paragraph at lines 1710--1710
+[]|\*11pttttftt*: Primary key fingerprint: 3565 2A26 2040 E066 C9A7  4A7D C0C6 
+D9A4 F311
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: P
+.\*11pttttftt*: r
+.\*11pttttftt*: i
+.etc.
+
+
+Overfull \hbox (29.86455pt too wide) in paragraph at lines 1717--1717
+[]|\*11pttttftt*: gpg: Signature made Wed Sep 13 02:08:25 2006 PDT using DSA ke
+y ID F3119B9A 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: g
+.\*11pttttftt*: p
+.\*11pttttftt*: g
+.etc.
+
+subsubsubject   : - Tagging Later
+[32.32] [33.33]
+subsubsubject   : - Sharing Tags
+subsubject      : - Tips and Tricks
+subsubsubject   : - Auto-Completion
+[34.34]
+subsubsubject   : - Git Aliases
+[35.35]
+subsubject      : - Summary
+[36.36] [37.37]
+systems         : end file ch2 at line 1945
+ ) 
+Here is how much of TeX's memory you used:
+ 1162 strings out of 456096
+ 17855 string characters out of 2520604
+ 4851769 words of memory out of 7259294
+ 42015 multiletter control sequences out of 15000+200000
+ 171091 words of font info for 77 fonts, out of 3000000 for 9000
+ 396 hyphenation exceptions out of 8191
+ 49i,17n,64p,252b,711s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/local/texlive/2010/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
+texlive/2010/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/local/texlive/20
+10/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2010/texmf-d
+ist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2010/texmf-dist/fonts/t
+ype1/public/lm/lmro10.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/publi
+c/lm/lmsy10.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/lm/lmtt1
+0.pfb>
+
+pdfTeX warning: pdftex: no GlyphToUnicode entry has been inserted yet!
+Output written on ch2.pdf (37 pages, 350408 bytes).
+PDF statistics:
+ 158 PDF objects out of 1000 (max. 8388607)
+ 109 compressed objects within 2 object streams
+ 3 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+

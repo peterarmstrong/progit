@@ -1,0 +1,3371 @@
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=cont-en 2010.7.21)  2 NOV 2010 23:35
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+ (/usr/local/texlive/2010/texmf/web2c/natural.tcx)
+**book.tex \emergencyend
+(./book.tex
+
+ConTeXt  ver: 2010.05.24 13:05 MKII  fmt: 2010.7.21  int: english/english
+
+system          : cont-new loaded
+(/usr/local/texlive/2010/texmf-dist/tex/context/base/cont-new.tex
+systems         : beware: some patches loaded from cont-new.tex
+(/usr/local/texlive/2010/texmf-dist/tex/context/base/cont-new.mkii))
+system          : cont-fil loaded
+(/usr/local/texlive/2010/texmf-dist/tex/context/base/cont-fil.tex
+loading         : ConTeXt File Synonyms
+)
+system          : cont-sys loaded
+(/usr/local/texlive/2010/texmf-config/tex/context/user/cont-sys.tex
+(/usr/local/texlive/2010/texmf-dist/tex/context/base/type-def.mkii)
+(/usr/local/texlive/2010/texmf-dist/tex/context/base/type-siz.mkii)
+(/usr/local/texlive/2010/texmf-dist/tex/context/base/type-one.mkii))
+system          : book.top loaded
+(./book.top)
+bodyfont        : 12pt rm is loaded
+language        : patterns nl->texnansi:texnansi->1->2:2 nl->ec:ec->2->2:2 us->
+ec:ec->3->2:3 de->texnansi:texnansi->4->3:3 de->ec:ec->5->3:3 da->ec:ec->6->2:2
+ sv->ec:ec->7->2:2 gb->ec:ec->8->2:2 fr->texnansi:texnansi->9->2:2 fr->ec:ec->1
+0->2:2 es->ec:ec->11->2:2 ca->ec:ec->12->2:2 it->texnansi:texnansi->13->2:2 it-
+>ec:ec->14->2:2 la->ec:ec->15->2:2 pt->texnansi:texnansi->16->2:2 pt->ec:ec->17
+->2:2 ro->ec:ec->18->2:2 pl->pl0:pl0->19->2:2 pl->ec:ec->20->2:2 pl->qx:qx->21-
+>2:2 cs->il2:il2->22->2:2 cs->ec:ec->23->2:2 sk->il2:il2->24->2:2 sk->ec:ec->25
+->2:2 hr->ec:ec->26->2:2 sl->ec:ec->27->2:2 tr->ec:ec->28->2:2 tk->ec:ec->29->1
+:2 lt->l7x:l7x->30->2:2 agr->agr:agr->32->2:2 fi->ec:ec->33->2:2 hu->ec:ec->34-
+>2:2 ru->t2a:t2a->36->2:2 uk->t2a:t2a->37->3:3 loaded
+specials        : dvips loaded
+\openout3 = `book.tui'.
+
+\openout0 = `book-mpgraph.mp'.
+
+\openout0 = `mpgraph.mp'.
+
+systems         : system commands are enabled
+language        : language en is active
+specials        : loading definition file tpd
+(/usr/local/texlive/2010/texmf-dist/tex/context/base/spec-tpd.mkii
+specials        : loading definition file fdf
+(/usr/local/texlive/2010/texmf-dist/tex/context/base/spec-fdf.mkii))
+color           : mpcmyk color space is supported
+color           : mpspot color space is supported
+color           : system rgb is global activated
+interaction     : active
+(./book.tuo) (./book.tuo) (./book.tuo) (./book.tuo) (./book.tuo) (./book.tuo)
+(./book.tuo) (./book.tuo) (./book.tuo) (./book.tuo) (./book.tuo)
+publications    : file book.bbl not found, waiting for bibtex
+(./book.tuo)
+systems         : begin file book at line 53
+subject         : - Getting Started
+subsubject      : - About Version Control
+subsubsubject   : - Local Version Control Systems
+fonts           : resetting map file list
+{/usr/local/texlive/2010/texmf-dist/fonts/map/pdftex/context/original-empty.map
+}
+fonts           : using map file: original-base
+{/usr/local/texlive/2010/texmf-dist/fonts/map/pdftex/context/original-base.map}
+fonts           : using map file: original-ams-base
+{/usr/local/texlive/2010/texmf-dist/fonts/map/pdftex/context/original-ams-base.
+map}
+fonts           : using map file: original-public-lm
+{/usr/local/texlive/2010/texmf-dist/fonts/map/pdftex/context/original-public-lm
+.map}
+fonts           : using map file: lm-ec
+{/usr/local/texlive/2010/texmf-dist/fonts/map/dvips/lm/lm-ec.map}
+fonts           : using map file: lm-math
+{/usr/local/texlive/2010/texmf-dist/fonts/map/dvips/lm/lm-math.map}
+fonts           : using map file: lm-rm
+{/usr/local/texlive/2010/texmf-dist/fonts/map/dvips/lm/lm-rm.map}
+fonts           : using map file: original-ams-euler
+{/usr/local/texlive/2010/texmf-dist/fonts/map/pdftex/context/original-ams-euler
+.map} <../figures/18333fig0101-tn.png>
+figures         : dimensions of ../figures/18333fig0101-tn.png loaded from figu
+refile itself
+(./book.tuo) (/usr/local/texlive/2010/texmf-dist/tex/context/base/sort-def.mkii
+) (/usr/local/texlive/2010/texmf-dist/tex/context/base/sort-lan.mkii)
+interaction     : pdftex code inserted
+[1.1]
+floatblocks     : 1 placed
+subsubsubject   : - Centralized Version Control Systems
+ <../figures/18333fig0102-tn.png>
+figures         : dimensions of ../figures/18333fig0102-tn.png loaded from figu
+refile itself
+floatblocks     : 2 saved
+[2.2]
+floatblocks     : 2 moved
+subsubsubject   : - Distributed Version Control Systems
+ <../figures/18333fig0103-tn.png>
+figures         : dimensions of ../figures/18333fig0103-tn.png loaded from figu
+refile itself
+floatblocks     : 3 saved
+subsubject      : - A Short History of Git
+[3.3]
+floatblocks     : 3 moved
+[4.4]
+subsubject      : - Git Basics
+subsubsubject   : - Snapshots, Not Differences
+ <../figures/18333fig0104-tn.png>
+figures         : dimensions of ../figures/18333fig0104-tn.png loaded from figu
+refile itself
+floatblocks     : 4 placed
+ <../figures/18333fig0105-tn.png>
+figures         : dimensions of ../figures/18333fig0105-tn.png loaded from figu
+refile itself
+[5.5]
+floatblocks     : 5 placed
+subsubsubject   : - Nearly Every Operation Is Local
+subsubsubject   : - Git Has Integrity
+[6.6]
+subsubsubject   : - Git Generally Only Adds Data
+subsubsubject   : - The Three States
+ <../figures/18333fig0106-tn.png>
+figures         : dimensions of ../figures/18333fig0106-tn.png loaded from figu
+refile itself
+floatblocks     : 6 saved
+[7.7]
+floatblocks     : 6 moved
+[8.8]
+subsubject      : - Installing Git
+subsubsubject   : - Installing from Source
+subsubsubject   : - Installing on Linux
+[9.9]
+subsubsubject   : - Installing on Mac
+ <../figures/18333fig0107-tn.png>
+figures         : dimensions of ../figures/18333fig0107-tn.png loaded from figu
+refile itself
+floatblocks     : 7 placed
+subsubsubject   : - Installing on Windows
+subsubject      : - First-Time Git Setup
+[10.10]
+Overfull \hbox (35.6594pt too wide) in paragraph at lines 506--511
+\*11ptrmtfrm*: ([]| []\*11pttttftt*: C:\Documents and Settings\$USER[] []\*11pt
+rmtfrm*: for most peo-ple). It also still looks for /etc/gitconfig,
+
+\hbox(9.54787+3.71303)x397.485, glue set - 1.0
+.\*11ptrmtfrm*: (
+.\pdfliteral{0 g 0 G}
+.\rule(9.54787+3.71303)x0.0
+.\penalty 10000
+.\glue 0.0
+.etc.
+
+subsubsubject   : - Your Identity
+subsubsubject   : - Your Editor
+[11.11]
+subsubsubject   : - Your Diff Tool
+subsubsubject   : - Checking Your Settings
+subsubject      : - Getting Help
+[12.12]
+subsubject      : - Summary
+subsubject      : - Getting a Git Repository
+subsubsubject   : - Initializing a Repository in an Existing Directory
+[13.13]
+subsubsubject   : - Cloning an Existing Repository
+[14.14]
+Overfull \hbox (19.9346pt too wide) in paragraph at lines 706--712
+\*11ptrmtfrm*: uses the []| []\*11pttttftt*: git://[] []\*11ptrmtfrm*: pro-to-c
+ol, but you may also see []| []\*11pttttftt*: http(s)://[] []\*11ptrmtfrm*: or 
+[]| []\*11pttttftt*: user@server:/path.git[][]\*11ptrmtfrm*: ,
+
+\hbox(9.54787+3.71303)x397.485, glue set - 1.0
+.\*11ptrmtfrm*: u
+.\*11ptrmtfrm*: s
+.\*11ptrmtfrm*: e
+.\*11ptrmtfrm*: s
+.\glue 3.66666 plus 1.83333 minus 1.22221
+.etc.
+
+subsubject      : - Recording Changes to the Repository
+ <../figures/18333fig0201-tn.png>
+figures         : dimensions of ../figures/18333fig0201-tn.png loaded from figu
+refile itself
+floatblocks     : 8 saved
+subsubsubject   : - Checking the Status of Your Files
+[15.15]
+floatblocks     : 8 moved
+
+Overfull \hbox (0.98958pt too wide) in paragraph at lines 768--768
+[]|\*11pttttftt*: nothing added to commit but untracked files present (use "git
+ add" to
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: n
+.\*11pttttftt*: o
+.\*11pttttftt*: t
+.etc.
+
+subsubsubject   : - Tracking New Files
+[16.16]
+subsubsubject   : - Staging Modified Files
+[17.17] [18.18]
+subsubsubject   : - Ignoring Files
+[19.19]
+Overfull \hbox (29.86455pt too wide) in paragraph at lines 955--955
+[]|\*11pttttftt*: !lib.a    # but do track lib.a, even though you're ignoring .
+a files above 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: !
+.\*11pttttftt*: l
+.\*11pttttftt*: i
+.etc.
+
+subsubsubject   : - Viewing Your Staged and Unstaged Changes
+[20.20]
+Overfull \hbox (18.31456pt too wide) in paragraph at lines 1036--1036
+[]|\*11pttttftt*: +Grit is a Ruby library for extracting information from a Git
+ repository 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: +
+.\*11pttttftt*: G
+.\*11pttttftt*: r
+.etc.
+
+[21.21] [22.22]
+subsubsubject   : - Committing Your Changes
+[23.23]
+subsubsubject   : - Skipping the Staging Area
+subsubsubject   : - Removing Files
+[24.24] [25.25]
+subsubsubject   : - Moving Files
+[26.26]
+subsubject      : - Viewing the Commit History
+[27.27] [28.28] [29.29]
+Overfull \hbox (6.76457pt too wide) in paragraph at lines 1468--1468
+[]|\*11pttttftt*: 085bb3bcb608e1e8451d4b2432f8ecbe6306e7e7 removed unnecessary 
+test code 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: 0
+.\*11pttttftt*: 8
+.\*11pttttftt*: 5
+.etc.
+
+
+Overfull \hbox (0.98958pt too wide) in paragraph at lines 1481--1481
+[]|\*11pttttftt*: 085bb3b - Scott Chacon, 11 months ago : removed unnecessary t
+est code 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: 0
+.\*11pttttftt*: 8
+.\*11pttttftt*: 5
+.etc.
+
+floatblocks     : 9 saved
+[30.30]
+floatblocks     : 9 moved
+
+Underfull \vbox (badness 10000) detected at line 1590
+
+\vbox(26.52182+0.0)x298.11374
+.\vbox(8.25+0.0)x298.11374
+..\hbox(8.25+2.75)x298.11374, glue set 0.52979
+...\hbox(0.0+0.0)x0.0
+...\*11ptrmtfrm*: D
+...\*11ptrmtfrm*: i
+...\*11ptrmtfrm*: s
+...\*11ptrmtfrm*: p
+...etc.
+..\penalty 4000
+..\glue(\baselineskip) 0.96304
+..\hbox(9.54787+3.71303)x298.11374, glue set 216.07298fil
+...\pdfliteral{0 g 0 G}
+...\rule(9.54787+3.71303)x0.0
+...\penalty 10000
+...\glue 0.0
+...\setlanguage0 (hyphenmin 2,3)
+...etc.
+..\glue(\baselineskip) 0.00002
+..etc.
+
+
+Underfull \vbox (badness 10000) detected at line 1597
+
+\vbox(26.52182+0.0)x298.11374
+.\vbox(8.25+0.0)x298.11374
+..\hbox(8.25+2.75)x298.11374, glue set 0.73958
+...\hbox(0.0+0.0)x0.0
+...\*11ptrmtfrm*: S
+...\*11ptrmtfrm*: h
+...\*11ptrmtfrm*: o
+...\kern-0.30557
+...etc.
+..\penalty 4000
+..\glue(\baselineskip) 2.93329
+..\hbox(7.57762+0.0)x298.11374, glue set 203.30063fil
+...\*11ptrmtfrm*: i
+...\*11ptrmtfrm*: n
+...\*11ptrmtfrm*: f
+...\*11ptrmtfrm*: o
+...\*11ptrmtfrm*: r
+...etc.
+..\glue(\baselineskip) 3.71304
+..etc.
+
+
+Underfull \vbox (badness 10000) detected at line 1601
+
+\vbox(26.52182+0.0)x298.11374
+.\vbox(7.57762+0.0)x298.11374
+..\hbox(7.57762+2.13887)x298.11374, glue set 0.76036
+...\hbox(0.0+0.0)x0.0
+...\*11ptrmtfrm*: S
+...\*11ptrmtfrm*: h
+...\*11ptrmtfrm*: o
+...\kern-0.30557
+...etc.
+..\penalty 4000
+..\glue(\baselineskip) 3.54442
+..\hbox(7.57762+0.0)x298.11374, glue set 218.30275fil
+...\*11ptrmtfrm*: i
+...\*11ptrmtfrm*: n
+...\*11ptrmtfrm*: s
+...\*11ptrmtfrm*: t
+...\*11ptrmtfrm*: e
+...etc.
+..\glue(\baselineskip) 3.71304
+..etc.
+
+
+Underfull \vbox (badness 10000) detected at line 1605
+
+\vbox(26.52182+0.0)x298.11374
+.\vbox(8.25+0.0)x298.11374
+..\hbox(8.25+2.75)x298.11374, glue set 0.40906
+...\hbox(0.0+0.0)x0.0
+...\*11ptrmtfrm*: D
+...\*11ptrmtfrm*: i
+...\*11ptrmtfrm*: s
+...\*11ptrmtfrm*: p
+...etc.
+..\penalty 4000
+..\glue(\baselineskip) 2.26091
+..\hbox(8.25+2.75)x298.11374, glue set 91.40823fil
+...\*11ptrmtfrm*: a
+...\*11ptrmtfrm*: g
+...\*11ptrmtfrm*: o
+...\*11ptrmtfrm*: 
+...\*11ptrmtfrm*: )
+...etc.
+..\glue(\baselineskip) 0.96304
+..etc.
+
+
+Underfull \vbox (badness 10000) detected at line 1609
+
+\vbox(26.52182+0.0)x298.11374
+.\vbox(7.57762+0.0)x298.11374
+..\hbox(7.57762+2.13887)x298.11374, glue set 0.1854
+...\hbox(0.0+0.0)x0.0
+...\*11ptrmtfrm*: D
+...\*11ptrmtfrm*: i
+...\*11ptrmtfrm*: s
+...\*11ptrmtfrm*: p
+...etc.
+..\penalty 4100
+..\glue(\baselineskip) 3.54442
+..\hbox(7.57762+2.13887)x298.11374, glue set 203.94144fil
+...\*11ptrmtfrm*: s
+...\*11ptrmtfrm*: i
+...\*11ptrmtfrm*: d
+...\*11ptrmtfrm*: e
+...\glue(\spaceskip) 3.66666
+...etc.
+..\glue(\baselineskip) 1.57417
+..etc.
+
+
+Underfull \vbox (badness 10000) detected at line 1614
+
+\vbox(39.78273+0.0)x298.11374
+.\vbox(7.57762+0.0)x298.11374
+..\hbox(7.57762+2.13887)x298.11374, glue set 0.45901
+...\hbox(0.0+0.0)x0.0
+...\*11ptrmtfrm*: S
+...\*11ptrmtfrm*: h
+...\*11ptrmtfrm*: o
+...\kern-0.30557
+...etc.
+..\penalty 2100
+..\glue(\baselineskip) 2.87204
+..\hbox(8.25+2.75)x298.11374, glue set 0.78815
+...\*11ptrmtfrm*: l
+...\*11ptrmtfrm*: i
+...\*11ptrmtfrm*: n
+...\*11ptrmtfrm*: e
+...\*11ptrmtfrm*: ,
+...etc.
+..\penalty 2000
+..etc.
+
+floatblocks     : 10 saved
+subsubsubject   : - Limiting Log Output
+[31.31]
+floatblocks     : 10 moved
+
+Underfull \vbox (badness 10000) detected at line 1672
+
+\vbox(26.52182+0.0)x278.23828
+.\vbox(7.57762+0.0)x278.23828
+..\hbox(7.57762+2.13887)x278.23828, glue set 0.95001
+...\hbox(0.0+0.0)x0.0
+...\*11ptrmtfrm*: L
+...\*11ptrmtfrm*: i
+...\*11ptrmtfrm*: m
+...\*11ptrmtfrm*: i
+...etc.
+..\penalty 4000
+..\glue(\baselineskip) 3.54442
+..\hbox(7.57762+0.0)x278.23828, glue set 254.40486fil
+...\*11ptrmtfrm*: d
+...\*11ptrmtfrm*: a
+...\*11ptrmtfrm*: t
+...\*11ptrmtfrm*: e
+...\*11ptrmtfrm*: .
+...etc.
+..\glue(\baselineskip) 3.71304
+..etc.
+
+
+Underfull \vbox (badness 10000) detected at line 1676
+
+\vbox(26.52182+0.0)x278.23828
+.\vbox(7.57762+0.0)x278.23828
+..\hbox(7.57762+2.13887)x278.23828, glue set 0.60834
+...\hbox(0.0+0.0)x0.0
+...\*11ptrmtfrm*: O
+...\*11ptrmtfrm*: n
+...\*11ptrmtfrm*: l
+...\*11ptrmtfrm*: y
+...etc.
+..\penalty 4000
+..\glue(\baselineskip) 3.54442
+..\hbox(7.57762+2.13887)x278.23828, glue set 184.27982fil
+...\*11ptrmtfrm*: t
+...\*11ptrmtfrm*: h
+...\*11ptrmtfrm*: e
+...\glue(\spaceskip) 3.66666
+...\*11ptrmtfrm*: s
+...etc.
+..\glue(\baselineskip) 1.57417
+..etc.
+
+
+Underfull \vbox (badness 10000) detected at line 1680
+
+\vbox(26.52182+0.0)x278.23828
+.\vbox(7.57762+0.0)x278.23828
+..\hbox(7.57762+2.13887)x278.23828, glue set 1.73613
+...\hbox(0.0+0.0)x0.0
+...\*11ptrmtfrm*: O
+...\*11ptrmtfrm*: n
+...\*11ptrmtfrm*: l
+...\*11ptrmtfrm*: y
+...etc.
+..\penalty 4000
+..\glue(\baselineskip) 3.54442
+..\hbox(7.57762+2.13887)x278.23828, glue set 141.74666fil
+...\*11ptrmtfrm*: m
+...\*11ptrmtfrm*: a
+...\*11ptrmtfrm*: t
+...\*11ptrmtfrm*: c
+...\kern-0.30557
+...etc.
+..\glue(\baselineskip) 1.57417
+..etc.
+
+[32.32]
+floatblocks     : 11 placed
+subsubsubject   : - Using a GUI to Visualize History
+ <../figures/18333fig0202-tn.png>
+figures         : dimensions of ../figures/18333fig0202-tn.png loaded from figu
+refile itself
+[33.33]
+floatblocks     : 12 placed
+subsubject      : - Undoing Things
+subsubsubject   : - Changing Your Last Commit
+[34.34]
+subsubsubject   : - Unstaging a Staged File
+
+Overfull \hbox (47.18953pt too wide) in paragraph at lines 1800--1800
+[]|\*11pttttftt*: #   (use "git checkout -- <file>..." to discard changes in wo
+rking directory) 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: #
+.\glue 5.775
+.\glue 5.775
+.etc.
+
+subsubsubject   : - Unmodifying a Modified File
+[35.35]
+Overfull \hbox (47.18953pt too wide) in paragraph at lines 1821--1821
+[]|\*11pttttftt*: #   (use "git checkout -- <file>..." to discard changes in wo
+rking directory) 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: #
+.\glue 5.775
+.\glue 5.775
+.etc.
+
+subsubject      : - Working with Remotes
+[36.36]
+subsubsubject   : - Showing Your Remotes
+[37.37]
+subsubsubject   : - Adding Remote Repositories
+subsubsubject   : - Fetching and Pulling from Your Remotes
+[38.38]
+subsubsubject   : - Pushing to Your Remotes
+subsubsubject   : - Inspecting a Remote
+[39.39] [40.40]
+subsubsubject   : - Removing and Renaming Remotes
+subsubject      : - Tagging
+subsubsubject   : - Listing Your Tags
+[41.41]
+subsubsubject   : - Creating Tags
+subsubsubject   : - Annotated Tags
+[42.42]
+subsubsubject   : - Signed Tags
+subsubsubject   : - Lightweight Tags
+[43.43]
+subsubsubject   : - Verifying Tags
+
+Overfull \hbox (12.53957pt too wide) in paragraph at lines 2270--2270
+[]|\*11pttttftt*: Minor fixes since 1.4.2, including git-mv and git-http with a
+lternates. 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: M
+.\*11pttttftt*: i
+.\*11pttttftt*: n
+.etc.
+
+
+Overfull \hbox (29.86455pt too wide) in paragraph at lines 2271--2271
+[]|\*11pttttftt*: gpg: Signature made Wed Sep 13 02:08:25 2006 PDT using DSA ke
+y ID F3119B9A 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: g
+.\*11pttttftt*: p
+.\*11pttttftt*: g
+.etc.
+
+[44.44]
+Overfull \hbox (6.76457pt too wide) in paragraph at lines 2274--2274
+[]|\*11pttttftt*: Primary key fingerprint: 3565 2A26 2040 E066 C9A7  4A7D C0C6 
+D9A4 F311
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: P
+.\*11pttttftt*: r
+.\*11pttttftt*: i
+.etc.
+
+
+Overfull \hbox (29.86455pt too wide) in paragraph at lines 2281--2281
+[]|\*11pttttftt*: gpg: Signature made Wed Sep 13 02:08:25 2006 PDT using DSA ke
+y ID F3119B9A 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: g
+.\*11pttttftt*: p
+.\*11pttttftt*: g
+.etc.
+
+subsubsubject   : - Tagging Later
+[45.45]
+subsubsubject   : - Sharing Tags
+[46.46]
+subsubject      : - Tips and Tricks
+subsubsubject   : - Auto-Completion
+[47.47]
+subsubsubject   : - Git Aliases
+[48.48]
+subsubject      : - Summary
+subsubject      : - What a Branch Is
+[49.49] <../figures/18333fig0301-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0301-tn.png loaded from figu
+refile itself
+floatblocks     : 13 placed
+ <../figures/18333fig0302-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0302-tn.png loaded from figu
+refile itself
+floatblocks     : 14 saved
+ <../figures/18333fig0303-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0303-tn.png loaded from figu
+refile itself
+floatblocks     : 15 saved
+[50.50]
+floatblocks     : 14 moved
+floatblocks     : 15 moved
+ <../figures/18333fig0304-tn.png>
+figures         : dimensions of ../figures/18333fig0304-tn.png loaded from figu
+refile itself
+floatblocks     : 16 placed
+[51.51] <../figures/18333fig0305-tn.png>
+figures         : dimensions of ../figures/18333fig0305-tn.png loaded from figu
+refile itself
+floatblocks     : 17 placed
+ <../figures/18333fig0306-tn.png>
+figures         : dimensions of ../figures/18333fig0306-tn.png loaded from figu
+refile itself
+floatblocks     : 18 placed
+[52.52] <../figures/18333fig0307-tn.png>
+figures         : dimensions of ../figures/18333fig0307-tn.png loaded from figu
+refile itself
+floatblocks     : 19 placed
+ <../figures/18333fig0308-tn.png>
+figures         : dimensions of ../figures/18333fig0308-tn.png loaded from figu
+refile itself
+floatblocks     : 20 placed
+[53.53] <../figures/18333fig0309-tn.png>
+figures         : dimensions of ../figures/18333fig0309-tn.png loaded from figu
+refile itself
+floatblocks     : 21 placed
+[54.54]
+subsubject      : - Basic Branching and Merging
+subsubsubject   : - Basic Branching
+ <../figures/18333fig0310-tn.png>
+figures         : dimensions of ../figures/18333fig0310-tn.png loaded from figu
+refile itself
+floatblocks     : 22 placed
+[55.55] <../figures/18333fig0311-tn.png>
+figures         : dimensions of ../figures/18333fig0311-tn.png loaded from figu
+refile itself
+floatblocks     : 23 placed
+ <../figures/18333fig0312-tn.png>
+figures         : dimensions of ../figures/18333fig0312-tn.png loaded from figu
+refile itself
+floatblocks     : 24 placed
+[56.56] <../figures/18333fig0313-tn.png>
+figures         : dimensions of ../figures/18333fig0313-tn.png loaded from figu
+refile itself
+floatblocks     : 25 placed
+[57.57] <../figures/18333fig0314-tn.png>
+figures         : dimensions of ../figures/18333fig0314-tn.png loaded from figu
+refile itself
+floatblocks     : 26 placed
+[58.58] <../figures/18333fig0315-tn.png>
+figures         : dimensions of ../figures/18333fig0315-tn.png loaded from figu
+refile itself
+floatblocks     : 27 placed
+subsubsubject   : - Basic Merging
+[59.59] <../figures/18333fig0316-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0316-tn.png loaded from figu
+refile itself
+floatblocks     : 28 placed
+ <../figures/18333fig0317-tn.png>
+figures         : dimensions of ../figures/18333fig0317-tn.png loaded from figu
+refile itself
+floatblocks     : 29 saved
+subsubsubject   : - Basic Merge Conflicts
+[60.60]
+floatblocks     : 29 moved
+
+Overfull \hbox (47.18953pt too wide) in paragraph at lines 2937--2937
+[]|\*11pttttftt*: #   (use "git checkout -- <file>..." to discard changes in wo
+rking directory) 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: #
+.\glue 5.775
+.\glue 5.775
+.etc.
+
+[61.61]
+Overfull \hbox (29.07048pt too wide) in paragraph at lines 2973--2981
+[]\*11ptrmtfrm*: This res-o-lu-tion has a lit-tle of each sec-tion, and I've fu
+lly re-moved the []| []\*11pttttftt*: <, \type{=======},
+
+\hbox(9.54787+3.71303)x397.485, glue set - 1.0
+.\hbox(0.0+0.0)x0.0
+.\*11ptrmtfrm*: T
+.\*11ptrmtfrm*: h
+.\*11ptrmtfrm*: i
+.\*11ptrmtfrm*: s
+.etc.
+
+
+Overfull \hbox (24.08955pt too wide) in paragraph at lines 2985--2985
+[]|\*11pttttftt*: merge tool candidates: kdiff3 tkdiff xxdiff meld gvimdiff ope
+ndiff emerge
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: m
+.\*11pttttftt*: e
+.\*11pttttftt*: r
+.etc.
+
+[62.62]
+subsubject      : - Branch Management
+[63.63]
+subsubject      : - Branching Workflows
+[64.64]
+subsubsubject   : - Long-Running Branches
+ <../figures/18333fig0318-tn.png>
+figures         : dimensions of ../figures/18333fig0318-tn.png loaded from figu
+refile itself
+floatblocks     : 30 placed
+ <../figures/18333fig0319-tn.png>
+figures         : dimensions of ../figures/18333fig0319-tn.png loaded from figu
+refile itself
+floatblocks     : 31 placed
+[65.65]
+subsubsubject   : - Topic Branches
+ <../figures/18333fig0320-tn.png>
+figures         : dimensions of ../figures/18333fig0320-tn.png loaded from figu
+refile itself
+floatblocks     : 32 saved
+ <../figures/18333fig0321-tn.png>
+figures         : dimensions of ../figures/18333fig0321-tn.png loaded from figu
+refile itself
+floatblocks     : 33 saved
+subsubject      : - Remote Branches
+[66.66]
+floatblocks     : 32 moved
+floatblocks     : 33 moved
+floatblocks     : less than 4 lines
+[67.67] <../figures/18333fig0322-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0322-tn.png loaded from figu
+refile itself
+floatblocks     : 34 placed
+ <../figures/18333fig0323-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0323-tn.png loaded from figu
+refile itself
+floatblocks     : 35 saved
+[68.68]
+floatblocks     : 35 moved
+ <../figures/18333fig0324-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0324-tn.png loaded from figu
+refile itself
+floatblocks     : 36 saved
+ <../figures/18333fig0325-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0325-tn.png loaded from figu
+refile itself
+floatblocks     : 37 saved
+ <../figures/18333fig0326-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0326-tn.png loaded from figu
+refile itself
+floatblocks     : 38 saved
+subsubsubject   : - Pushing
+[69.69]
+floatblocks     : 36 moved
+floatblocks     : 37 moved
+floatblocks     : n of top floats limited to 2
+floatblocks     : less than 4 lines
+floatblocks     : n of bottom floats limited to 0
+[70.70]
+floatblocks     : 38 moved
+[71.71]
+Overfull \hbox (47.18953pt too wide) in paragraph at lines 3340--3340
+[]|\*11pttttftt*: Branch serverfix set up to track remote branch refs/remotes/o
+rigin/serverfix. 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: B
+.\*11pttttftt*: r
+.\*11pttttftt*: a
+.etc.
+
+
+Overfull \hbox (15.5043pt too wide) in paragraph at lines 3343--3345
+[]\*11ptrmtfrm*: This gives you a lo-cal branch that you can work on that start
+s where []| []\*11pttttftt*: origin/serverfix[]
+
+\hbox(9.54787+3.71303)x397.485, glue set - 1.0
+.\hbox(0.0+0.0)x0.0
+.\*11ptrmtfrm*: T
+.\*11ptrmtfrm*: h
+.\*11ptrmtfrm*: i
+.\*11ptrmtfrm*: s
+.etc.
+
+subsubsubject   : - Tracking Branches
+
+Overfull \hbox (47.18953pt too wide) in paragraph at lines 3371--3371
+[]|\*11pttttftt*: Branch serverfix set up to track remote branch refs/remotes/o
+rigin/serverfix. 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: B
+.\*11pttttftt*: r
+.\*11pttttftt*: a
+.etc.
+
+[72.72]
+Overfull \hbox (6.76457pt too wide) in paragraph at lines 3381--3381
+[]|\*11pttttftt*: Branch sf set up to track remote branch refs/remotes/origin/s
+erverfix. 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: B
+.\*11pttttftt*: r
+.\*11pttttftt*: a
+.etc.
+
+subsubsubject   : - Deleting Remote Branches
+
+Overfull \hbox (44.80583pt too wide) in paragraph at lines 3403--3410
+\*11ptrmtfrm*: this com-mand is by re-call-ing the []| []\*11pttttftt*: git pus
+h [remotename] [localbranch]:[remotebranch][]
+
+\hbox(9.54787+3.71303)x397.485, glue set - 1.0
+.\*11ptrmtfrm*: t
+.\*11ptrmtfrm*: h
+.\*11ptrmtfrm*: i
+.\*11ptrmtfrm*: s
+.\glue 3.66666 plus 1.83333 minus 1.22221
+.etc.
+
+
+Overfull \hbox (18.09613pt too wide) in paragraph at lines 3403--3410
+\*11ptrmtfrm*: then you're ba-si-cally say-ing, Take noth-ing on my side and m
+ake it be []| []\*11pttttftt*: [remotebranch][][]\*11ptrmtfrm*: . 
+
+\hbox(9.54787+3.71303)x397.485, glue set - 1.0
+.\*11ptrmtfrm*: t
+.\*11ptrmtfrm*: h
+.\*11ptrmtfrm*: e
+.\*11ptrmtfrm*: n
+.\glue 3.66666 plus 1.83333 minus 1.22221
+.etc.
+
+subsubject      : - Rebasing
+subsubsubject   : - The Basic Rebase
+ <../figures/18333fig0327-tn.png>
+figures         : dimensions of ../figures/18333fig0327-tn.png loaded from figu
+refile itself
+[73.73]
+floatblocks     : 39 placed
+ <../figures/18333fig0328-tn.png>
+figures         : dimensions of ../figures/18333fig0328-tn.png loaded from figu
+refile itself
+floatblocks     : 40 placed
+[74.74] <../figures/18333fig0329-tn.png>
+figures         : dimensions of ../figures/18333fig0329-tn.png loaded from figu
+refile itself
+floatblocks     : 41 placed
+ <../figures/18333fig0330-tn.png>
+figures         : dimensions of ../figures/18333fig0330-tn.png loaded from figu
+refile itself
+floatblocks     : 42 placed
+subsubsubject   : - More Interesting Rebases
+[75.75] <../figures/18333fig0331-tn.png>
+figures         : dimensions of ../figures/18333fig0331-tn.png loaded from figu
+refile itself
+floatblocks     : 43 placed
+ <../figures/18333fig0332-tn.png>
+figures         : dimensions of ../figures/18333fig0332-tn.png loaded from figu
+refile itself
+[76.76]
+floatblocks     : 44 placed
+ <../figures/18333fig0333-tn.png>
+figures         : dimensions of ../figures/18333fig0333-tn.png loaded from figu
+refile itself
+floatblocks     : 45 placed
+ <../figures/18333fig0334-tn.png>
+figures         : dimensions of ../figures/18333fig0334-tn.png loaded from figu
+refile itself
+[77.77]
+floatblocks     : 46 placed
+ <../figures/18333fig0335-tn.png>
+figures         : dimensions of ../figures/18333fig0335-tn.png loaded from figu
+refile itself
+floatblocks     : 47 placed
+subsubsubject   : - The Perils of Rebasing
+ <../figures/18333fig0336-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0336-tn.png loaded from figu
+refile itself
+[78.78]
+floatblocks     : 48 placed
+ <../figures/18333fig0337-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0337-tn.png loaded from figu
+refile itself
+floatblocks     : 49 placed
+ <../figures/18333fig0338-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0338-tn.png loaded from figu
+refile itself
+[79.79]
+floatblocks     : 50 placed
+ <../figures/18333fig0339-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0339-tn.png loaded from figu
+refile itself
+floatblocks     : 51 placed
+[80.80]
+subsubject      : - Summary
+[81.81]
+subsubject      : - The Protocols
+subsubsubject   : - Local Protocol
+[82.82]
+subsubsubsubjec : - The Pros
+
+Overfull \hbox (7.19194pt too wide) in paragraph at lines 3742--3747
+\*11ptrmtfrm*: you to check some-thing out, run-ning a com-mand like []| []\*11
+pttttftt*: git pull /home/john/project[]
+
+\hbox(9.54787+3.71303)x397.485, glue set - 1.0
+.\*11ptrmtfrm*: y
+.\kern-0.30557
+.\*11ptrmtfrm*: o
+.\*11ptrmtfrm*: u
+.\glue 3.66666 plus 1.83333 minus 1.22221
+.etc.
+
+subsubsubsubjec : - The Cons
+subsubsubject   : - The SSH Protocol
+[83.83]
+subsubsubsubjec : - The Pros
+subsubsubsubjec : - The Cons
+subsubsubject   : - The Git Protocol
+[84.84]
+subsubsubsubjec : - The Pros
+subsubsubsubjec : - The Cons
+subsubsubject   : - The HTTP/S Protocol
+[85.85]
+Overfull \hbox (12.53957pt too wide) in paragraph at lines 3890--3900
+[]| []\*11pttttftt*: http://www.kernel.org/pub/software/scm/git/docs/howto/setu
+p-git-server-
+
+\hbox(9.54787+3.71303)x397.485
+.\pdfliteral{0 g 0 G}
+.\rule(9.54787+3.71303)x0.0
+.\penalty 10000
+.\glue 0.0
+.\setlanguage0 (hyphenmin 2,3)
+.etc.
+
+subsubsubsubjec : - The Pros
+subsubsubsubjec : - The Cons
+[86.86]
+subsubject      : - Getting Git on a Server
+subsubsubject   : - Putting the Bare Repository on a Server
+[87.87]
+subsubsubject   : - Small Setups
+subsubsubsubjec : - SSH Access
+[88.88]
+subsubject      : - Generating Your SSH Public Key
+[89.89]
+Overfull \hbox (29.86455pt too wide) in paragraph at lines 4104--4104
+[]|\*11pttttftt*: 43:c5:5b:5f:b1:f1:50:43:ad:20:a6:92:6a:1f:9a:3a schacon@agado
+rlaptop.local 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: 4
+.\*11pttttftt*: 3
+.\*11pttttftt*: :
+.etc.
+
+
+Overfull \hbox (24.08955pt too wide) in paragraph at lines 4120--4120
+[]|\*11pttttftt*: ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAklOUpkDHrfHY17SbrmTIpNLTG
+K9Tjom/BWDSU 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: s
+.\*11pttttftt*: s
+.\*11pttttftt*: h
+.etc.
+
+
+Overfull \hbox (24.08955pt too wide) in paragraph at lines 4121--4121
+[]|\*11pttttftt*: GPl+nafzlHDTYW7hdI4yZ5ew18JH4JW9jbhUFrviQzM7xlELEVf4h9lFX5QVk
+bPppSwg0cda3 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: G
+.\*11pttttftt*: P
+.\*11pttttftt*: l
+.etc.
+
+
+Overfull \hbox (24.08955pt too wide) in paragraph at lines 4122--4122
+[]|\*11pttttftt*: Pbv7kOdJ/MTyBlWXFCR+HAo3FXRitBqxiX1nKhXpHAZsMciLq8V6RjsNAQwds
+dMFvSlVK/7XA 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: P
+.\*11pttttftt*: b
+.\*11pttttftt*: v
+.etc.
+
+
+Overfull \hbox (24.08955pt too wide) in paragraph at lines 4123--4123
+[]|\*11pttttftt*: t3FaoJoAsncM1Q9x5+3V0Ww68/eIFmb1zuUFljQJKprrX88XypNDvjYNby6vw
+/Pb0rwert/En 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: t
+.\*11pttttftt*: 3
+.\*11pttttftt*: F
+.etc.
+
+
+Overfull \hbox (24.08955pt too wide) in paragraph at lines 4124--4124
+[]|\*11pttttftt*: mZ+AW4OZPnTPI89ZPmVMLuayrD2cE86Z/il8b+gw3r3+1nKatmIkjn2so1d01
+QraTlMqVSsbx 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: m
+.\*11pttttftt*: Z
+.\*11pttttftt*: +
+.etc.
+
+subsubject      : - Setting Up the Server
+
+Overfull \hbox (18.31456pt too wide) in paragraph at lines 4154--4154
+[]|\*11pttttftt*: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCB007n/ww+ouN4gSLKssMxX
+nBOvf9LGt4L 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: s
+.\*11pttttftt*: s
+.\*11pttttftt*: h
+.etc.
+
+[90.90]
+Overfull \hbox (18.31456pt too wide) in paragraph at lines 4155--4155
+[]|\*11pttttftt*: ojG6rs6hPB09j9R/T17/x4lhJA0F3FR1rP6kYBRsWj2aThGw6HXLm9/5zytK6
+Ztg3RPKK+4k 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: o
+.\*11pttttftt*: j
+.\*11pttttftt*: G
+.etc.
+
+
+Overfull \hbox (18.31456pt too wide) in paragraph at lines 4156--4156
+[]|\*11pttttftt*: Yjh6541NYsnEAZuXz0jTTyAUfrtU3Z5E003C4oxOj6H0rfIF1kKI9MAQLMdpG
+W1GYEIgS9Ez 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: Y
+.\*11pttttftt*: j
+.\*11pttttftt*: h
+.etc.
+
+
+Overfull \hbox (18.31456pt too wide) in paragraph at lines 4157--4157
+[]|\*11pttttftt*: Sdfd8AcCIicTDWbqLAcU4UpkaX8KyGlLwsNuuGztobF8m72ALC/nLF6JLtPof
+wFBlgc+myiv 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: S
+.\*11pttttftt*: d
+.\*11pttttftt*: f
+.etc.
+
+
+Overfull \hbox (18.31456pt too wide) in paragraph at lines 4158--4158
+[]|\*11pttttftt*: O7TCUSBdLQlgMVOFq1I2uPWQOkOWQAHukEOmfjy2jctxSDBQ220ymjaNsHT4k
+gtZg2AYYgPq 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: O
+.\*11pttttftt*: 7
+.\*11pttttftt*: T
+.etc.
+
+[91.91]
+subsubject      : - Public Access
+[92.92]
+subsubject      : - GitWeb
+[93.93] <../figures/18333fig0401-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0401-tn.png loaded from figu
+refile itself
+floatblocks     : 52 placed
+
+Overfull \hbox (24.08955pt too wide) in paragraph at lines 4359--4359
+[]|\*11pttttftt*: [2009-02-21 10:02:21] INFO  ruby 1.8.6 (2008-03-03) [universa
+l-darwin9.0] 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: [
+.\*11pttttftt*: 2
+.\*11pttttftt*: 0
+.etc.
+
+[94.94]
+subsubject      : - Gitosis
+[95.95] [96.96] [97.97] [98.98]
+Overfull \hbox (13.59837pt too wide) in paragraph at lines 4612--4619
+\*11ptrmtfrm*: pub-lic keys. But in-stead of ap-pend-ing them man-u-ally to the
+ []| []\*11pttttftt*: ~/.ssh/authorized_keys[]
+
+\hbox(9.54787+3.71303)x397.485, glue set - 1.0
+.\*11ptrmtfrm*: p
+.\*11ptrmtfrm*: u
+.\*11ptrmtfrm*: b
+.\discretionary
+..\*11ptrmtfrm*: -
+.\*11ptrmtfrm*: l
+.etc.
+
+[99.99]
+Overfull \hbox (0.1637pt too wide) in paragraph at lines 4671--4680
+[]\*11ptrmtfrm*: If you have any is-sues, it may be use-ful to add []| []\*11pt
+tttftt*: loglevel=DEBUG[] []\*11ptrmtfrm*: un-der the []| []\*11pttttftt*: [git
+osis][]
+
+\hbox(9.54787+3.71303)x397.485, glue set - 1.0
+.\hbox(0.0+0.0)x0.0
+.\*11ptrmtfrm*: I
+.\*11ptrmtfrm*: f
+.\glue 3.66666 plus 1.83333 minus 1.22221
+.\*11ptrmtfrm*: y
+.etc.
+
+subsubject      : - Gitolite
+subsubsubject   : - Installing
+[100.100]
+subsubsubject   : - Customising the Install
+subsubsubject   : - Config File and Access Control Rules
+[101.101] [102.102]
+subsubsubject   : - Advanced Access Control with \quotation {deny} rules
+[103.103]
+subsubsubject   : - Restricting pushes by files changed
+subsubsubject   : - Personal Branches
+subsubsubject   : - \quotation {Wildcard} repositories
+[104.104]
+subsubsubject   : - Other Features
+[105.105]
+Overfull \hbox (0.11192pt too wide) in paragraph at lines 5004--5009
+[]\*11ptrmbfrm*: Delegation\*11ptrmtfrm*: : For re-ally large in-stal-la-tions,
+ you can del-e-gate re-spon-si-bil-ity for groups
+
+\hbox(7.68953+2.13887)x397.485, glue set - 1.0
+.\hbox(0.0+0.0)x0.0
+.\*11ptrmbfrm*: D
+.\*11ptrmbfrm*: e
+.\*11ptrmbfrm*: l
+.\*11ptrmbfrm*: e
+.etc.
+
+subsubject      : - Git Daemon
+[106.106] [107.107]
+subsubject      : - Hosted Git
+subsubsubject   : - GitHub
+[108.108]
+subsubsubject   : - Setting Up a User Account
+ <../figures/18333fig0402-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0402-tn.png loaded from figu
+refile itself
+floatblocks     : 53 placed
+ <../figures/18333fig0403-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0403-tn.png loaded from figu
+refile itself
+floatblocks     : 54 saved
+[109.109]
+floatblocks     : 54 moved
+ <../figures/18333fig0404-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0404-tn.png loaded from figu
+refile itself
+floatblocks     : 55 saved
+subsubsubject   : - Creating a New Repository
+[110.110]
+floatblocks     : 55 moved
+ <../figures/18333fig0405-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0405-tn.png loaded from figu
+refile itself
+floatblocks     : 56 placed
+[111.111] <../figures/18333fig0406-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0406-tn.png loaded from figu
+refile itself
+floatblocks     : 57 placed
+ <../figures/18333fig0407-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0407-tn.png loaded from figu
+refile itself
+floatblocks     : 58 saved
+
+Overfull \hbox (0.98958pt too wide) in paragraph at lines 5255--5255
+[]|\*11pttttftt*: $ git remote add origin git@github.com:testinguser/iphone_pro
+ject.git 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: $
+.\glue 5.775
+.\*11pttttftt*: g
+.etc.
+
+
+Overfull \hbox (89.3157pt too wide) in paragraph at lines 5258--5263
+\*11ptrmtfrm*: want to share your project with. In this case, it's []| []\*11pt
+tttftt*: http://github.com/testinguser/iphone_project[][]\*11ptrmtfrm*: .
+
+\hbox(9.54787+3.71303)x397.485, glue set - 1.0
+.\*11ptrmtfrm*: w
+.\kern-0.30557
+.\*11ptrmtfrm*: a
+.\*11ptrmtfrm*: n
+.\kern-0.30557
+.etc.
+
+ <../figures/18333fig0408-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0408-tn.png loaded from figu
+refile itself
+floatblocks     : 59 saved
+subsubsubject   : - Importing from Subversion
+[112.112]
+floatblocks     : 58 moved
+floatblocks     : 59 moved
+[113.113] <../figures/18333fig0409-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0409-tn.png loaded from figu
+refile itself
+floatblocks     : 60 placed
+subsubsubject   : - Adding Collaborators
+ <../figures/18333fig0410-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0410-tn.png loaded from figu
+refile itself
+[114.114]
+floatblocks     : 61 placed
+ <../figures/18333fig0411-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0411-tn.png loaded from figu
+refile itself
+floatblocks     : 62 placed
+ <../figures/18333fig0412-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0412-tn.png loaded from figu
+refile itself
+floatblocks     : 63 saved
+subsubsubject   : - Your Project
+ <../figures/18333fig0413-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0413-tn.png loaded from figu
+refile itself
+floatblocks     : 64 saved
+[115.115]
+floatblocks     : 63 moved
+floatblocks     : 64 moved
+subsubsubject   : - Forking Projects
+[116.116] <../figures/18333fig0414-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0414-tn.png loaded from figu
+refile itself
+floatblocks     : 65 placed
+ <../figures/18333fig0415-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0415-tn.png loaded from figu
+refile itself
+floatblocks     : 66 placed
+subsubsubject   : - GitHub Summary
+subsubject      : - Summary
+[117.117]
+subsubject      : - Distributed Workflows
+subsubsubject   : - Centralized Workflow
+ <../figures/18333fig0501-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0501-tn.png loaded from figu
+refile itself
+floatblocks     : 67 saved
+[118.118]
+floatblocks     : 67 moved
+subsubsubject   : - Integration-Manager Workflow
+ <../figures/18333fig0502-tn.png>
+figures         : dimensions of ../figures/18333fig0502-tn.png loaded from figu
+refile itself
+[119.119]
+floatblocks     : 68 placed
+subsubsubject   : - Dictator and Lieutenants Workflow
+ <../figures/18333fig0503-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0503-tn.png loaded from figu
+refile itself
+floatblocks     : 69 saved
+[120.120]
+floatblocks     : 69 moved
+subsubject      : - Contributing to a Project
+[121.121]
+subsubsubject   : - Commit Guidelines
+[122.122]
+Overfull \hbox (0.98958pt too wide) in paragraph at lines 5654--5654
+[]|\*11pttttftt*: characters or so.  In some contexts, the first line is treate
+d as the 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: c
+.\*11pttttftt*: h
+.\*11pttttftt*: a
+.etc.
+
+
+Overfull \hbox (6.76457pt too wide) in paragraph at lines 5656--5656
+[]|\*11pttttftt*: line separating the summary from the body is critical (unless
+ you omit 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: l
+.\*11pttttftt*: i
+.\*11pttttftt*: n
+.etc.
+
+
+Overfull \hbox (0.98958pt too wide) in paragraph at lines 5657--5657
+[]|\*11pttttftt*: the body entirely); tools like rebase can get confused if you
+ run the 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: t
+.\*11pttttftt*: h
+.\*11pttttftt*: e
+.etc.
+
+
+Overfull \hbox (0.98958pt too wide) in paragraph at lines 5664--5664
+[]| \*11pttttftt*: - Typically a hyphen or asterisk is used for the bullet, pre
+ceded by
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\glue 5.775
+.\*11pttttftt*: -
+.\discretionary
+.etc.
+
+
+Overfull \hbox (12.53957pt too wide) in paragraph at lines 5665--5665
+[]|   \*11pttttftt*: single space, with blank lines in between, but conventions
+ vary here 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\glue 5.775
+.\glue 5.775
+.\glue 5.775
+.etc.
+
+[123.123]
+subsubsubject   : - Private Small Team
+[124.124] <../figures/18333fig0504-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0504-tn.png loaded from figu
+refile itself
+floatblocks     : 70 saved
+ <../figures/18333fig0505-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0505-tn.png loaded from figu
+refile itself
+floatblocks     : 71 saved
+[125.125]
+floatblocks     : 70 moved
+floatblocks     : 71 moved
+ <../figures/18333fig0506-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0506-tn.png loaded from figu
+refile itself
+floatblocks     : 72 saved
+ <../figures/18333fig0507-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0507-tn.png loaded from figu
+refile itself
+floatblocks     : 73 saved
+[126.126]
+floatblocks     : 72 moved
+floatblocks     : 73 moved
+ <../figures/18333fig0508-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0508-tn.png loaded from figu
+refile itself
+floatblocks     : 74 placed
+[127.127]
+Overfull \hbox (52.96452pt too wide) in paragraph at lines 5836--5836
+[]|\*11pttttftt*: Your branch is behind 'origin/master' by 2 commits, and can b
+e fast-forwarded. 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: Y
+.\*11pttttftt*: o
+.\*11pttttftt*: u
+.etc.
+
+ <../figures/18333fig0509-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0509-tn.png loaded from figu
+refile itself
+floatblocks     : 75 saved
+[128.128]
+floatblocks     : 75 moved
+ <../figures/18333fig0510-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0510-tn.png loaded from figu
+refile itself
+floatblocks     : 76 placed
+ <../figures/18333fig0511-tn.png>
+figures         : dimensions of ../figures/18333fig0511-tn.png loaded from figu
+refile itself
+floatblocks     : 77 saved
+subsubsubject   : - Private Managed Team
+[129.129]
+floatblocks     : 77 moved
+[130.130] <../figures/18333fig0512-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0512-tn.png loaded from figu
+refile itself
+floatblocks     : 78 placed
+[131.131] [132.132] <../figures/18333fig0513-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0513-tn.png loaded from figu
+refile itself
+floatblocks     : 79 placed
+ <../figures/18333fig0514-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0514-tn.png loaded from figu
+refile itself
+[133.133]
+floatblocks     : 80 placed
+ <../figures/18333fig0515-tn.png>
+figures         : dimensions of ../figures/18333fig0515-tn.png loaded from figu
+refile itself
+floatblocks     : 81 placed
+subsubsubject   : - Public Small Project
+[134.134] [135.135]
+Overfull \hbox (41.41454pt too wide) in paragraph at lines 6152--6152
+[]|\*11pttttftt*: The following changes since commit 1edee6b1d61823a2de3b09c160
+d7080b8d1b3a40: 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: T
+.\*11pttttftt*: h
+.\*11pttttftt*: e
+.etc.
+
+ <../figures/18333fig0516-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0516-tn.png loaded from figu
+refile itself
+[136.136]
+floatblocks     : 82 placed
+ <../figures/18333fig0517-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0517-tn.png loaded from figu
+refile itself
+floatblocks     : 83 placed
+[137.137] <../figures/18333fig0518-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0518-tn.png loaded from figu
+refile itself
+floatblocks     : 84 placed
+subsubsubject   : - Public Large Project
+[138.138]
+Overfull \hbox (6.76457pt too wide) in paragraph at lines 6297--6297
+[]|\*11pttttftt*: From 330090432754092d704da8e76ca5c05c198e71a8 Mon Sep 17 00:0
+0:00 2001 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: F
+.\*11pttttftt*: r
+.\*11pttttftt*: o
+.etc.
+
+[139.139]
+Overfull \hbox (52.96452pt too wide) in paragraph at lines 6367--6367
+[]|\*11pttttftt*: Who should the emails appear to be from? [Jessica Smith <jess
+ica@example.com>] 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: W
+.\*11pttttftt*: h
+.\*11pttttftt*: o
+.etc.
+
+[140.140]
+subsubsubject   : - Summary
+subsubject      : - Maintaining a Project
+subsubsubject   : - Working in Topic Branches
+[141.141]
+subsubsubject   : - Applying Patches from E-mail
+subsubsubsubjec : - Applying a Patch with apply
+[142.142]
+subsubsubsubjec : - Applying a Patch with am
+
+Overfull \hbox (6.76457pt too wide) in paragraph at lines 6512--6512
+[]|\*11pttttftt*: From 330090432754092d704da8e76ca5c05c198e71a8 Mon Sep 17 00:0
+0:00 2001 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: F
+.\*11pttttftt*: r
+.\*11pttttftt*: o
+.etc.
+
+[143.143]
+Overfull \hbox (6.76457pt too wide) in paragraph at lines 6579--6579
+[]|\*11pttttftt*: To restore the original branch and stop patching run "git am 
+--abort". 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: T
+.\*11pttttftt*: o
+.\glue 5.775
+.etc.
+
+[144.144]
+subsubsubject   : - Checking Out Remote Branches
+[145.145]
+subsubsubject   : - Determining What Is Introduced
+[146.146] [147.147]
+subsubsubject   : - Integrating Contributed Work
+subsubsubsubjec : - Merging Workflows
+ <../figures/18333fig0519-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0519-tn.png loaded from figu
+refile itself
+floatblocks     : 85 saved
+ <../figures/18333fig0520-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0520-tn.png loaded from figu
+refile itself
+floatblocks     : 86 saved
+ <../figures/18333fig0521-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0521-tn.png loaded from figu
+refile itself
+floatblocks     : 87 saved
+ <../figures/18333fig0522-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0522-tn.png loaded from figu
+refile itself
+floatblocks     : 88 saved
+ <../figures/18333fig0523-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0523-tn.png loaded from figu
+refile itself
+floatblocks     : 89 saved
+[148.148]
+floatblocks     : 85 moved
+floatblocks     : 86 moved
+floatblocks     : n of top floats limited to 2
+floatblocks     : less than 4 lines
+floatblocks     : n of bottom floats limited to 0
+[149.149]
+floatblocks     : 87 moved
+floatblocks     : 88 moved
+floatblocks     : n of top floats limited to 2
+floatblocks     : n of bottom floats limited to 0
+subsubsubsubjec : - Large-Merging Workflows
+[150.150]
+floatblocks     : 89 moved
+ <../figures/18333fig0524-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0524-tn.png loaded from figu
+refile itself
+floatblocks     : 90 placed
+ <../figures/18333fig0525-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0525-tn.png loaded from figu
+refile itself
+floatblocks     : 91 saved
+[151.151]
+floatblocks     : 91 moved
+subsubsubsubjec : - Rebasing and Cherry Picking Workflows
+ <../figures/18333fig0526-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0526-tn.png loaded from figu
+refile itself
+floatblocks     : 92 saved
+
+Overfull \hbox (18.31456pt too wide) in paragraph at lines 6893--6893
+[]|\*11pttttftt*: [master]: created a0a41a9: "More friendly message when lockin
+g the index
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: [
+.\*11pttttftt*: m
+.\*11pttttftt*: a
+.etc.
+
+[152.152]
+floatblocks     : 92 moved
+ <../figures/18333fig0527-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0527-tn.png loaded from figu
+refile itself
+floatblocks     : 93 placed
+subsubsubject   : - Tagging Your Releases
+[153.153]
+Overfull \hbox (18.31456pt too wide) in paragraph at lines 6952--6952
+[]|\*11pttttftt*: $ git tag -a maintainer-pgp-pub 659ef797d181633c87ec71ac3f9ba
+29fe5775b92 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: $
+.\glue 5.775
+.\*11pttttftt*: g
+.etc.
+
+subsubsubject   : - Generating a Build Number
+[154.154]
+subsubsubject   : - Preparing a Release
+
+Overfull \hbox (52.96452pt too wide) in paragraph at lines 7007--7007
+[]|\*11pttttftt*: $ git archive master --prefix='project/' | gzip > `git descri
+be master`.tar.gz 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: $
+.\glue 5.775
+.\*11pttttftt*: g
+.etc.
+
+
+Overfull \hbox (0.98958pt too wide) in paragraph at lines 7018--7018
+[]|\*11pttttftt*: $ git archive master --prefix='project/' --format=zip > `git 
+describe
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: $
+.\glue 5.775
+.\*11pttttftt*: g
+.etc.
+
+subsubsubject   : - The Shortlog
+[155.155]
+subsubject      : - Summary
+subsubject      : - Revision Selection
+subsubsubject   : - Single Revisions
+[156.156]
+subsubsubject   : - Short SHA
+[157.157]
+subsubsubject   : - A SHORT NOTE ABOUT SHA--1
+subsubsubject   : - Branch References
+[158.158]
+subsubsubject   : - RefLog Shortnames
+
+Overfull \hbox (18.31456pt too wide) in paragraph at lines 7218--7218
+[]|\*11pttttftt*: 734713b... HEAD@{0}: commit: fixed refs handling, added gc au
+to, updated 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: 7
+.\*11pttttftt*: 3
+.\*11pttttftt*: 4
+.etc.
+
+[159.159]
+subsubsubject   : - Ancestry References
+[160.160] [161.161]
+subsubsubject   : - Commit Ranges
+subsubsubsubjec : - Double Dot
+ <../figures/18333fig0601-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0601-tn.png loaded from figu
+refile itself
+floatblocks     : 94 placed
+[162.162]
+Overfull \hbox (28.64247pt too wide) in paragraph at lines 7420--7430
+\*11ptrmtfrm*: branch is track-ing []| []\*11pttttftt*: origin/master[][]\*11pt
+rmtfrm*: , the com-mits listed by []| []\*11pttttftt*: git log origin/master..H
+EAD[]
+
+\hbox(9.54787+3.71303)x397.485, glue set - 1.0
+.\*11ptrmtfrm*: b
+.\*11ptrmtfrm*: r
+.\*11ptrmtfrm*: a
+.\*11ptrmtfrm*: n
+.\*11ptrmtfrm*: c
+.etc.
+
+subsubsubsubjec : - Multiple Points
+[163.163]
+subsubsubsubjec : - Triple Dot
+subsubject      : - Interactive Staging
+[164.164]
+subsubsubject   : - Staging and Unstaging Files
+[165.165] [166.166]
+subsubsubject   : - Staging Patches
+[167.167]
+Overfull \hbox (0.98958pt too wide) in paragraph at lines 7683--7683
+[]|\*11pttttftt*: d - do not stage this hunk nor any of the remaining hunks in 
+the file 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: d
+.\glue 5.775
+.\*11pttttftt*: -
+.etc.
+
+[168.168]
+subsubject      : - Stashing
+subsubsubject   : - Stashing Your Work
+[169.169] [170.170]
+subsubsubject   : - Un-applying a Stash
+[171.171]
+Overfull \hbox (24.08955pt too wide) in paragraph at lines 7874--7874
+[]|\*11pttttftt*: $ git config --global alias.stash-unapply '!git stash show -p
+ | git apply
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: $
+.\glue 5.775
+.\*11pttttftt*: g
+.etc.
+
+subsubsubject   : - Creating a Branch from a Stash
+subsubject      : - Rewriting History
+[172.172]
+subsubsubject   : - Changing the Last Commit
+subsubsubject   : - Changing Multiple Commit Messages
+[173.173] [174.174] [175.175]
+subsubsubject   : - Reordering Commits
+subsubsubject   : - Squashing a Commit
+[176.176]
+subsubsubject   : - Splitting a Commit
+[177.177]
+subsubsubject   : - The Nuclear Option: filter-branch
+subsubsubsubjec : - Removing a File from Every Commit
+[178.178]
+subsubsubsubjec : - Making a Subdirectory the New Root
+subsubsubsubjec : - Changing E-Mail Addresses Globally
+[179.179]
+subsubject      : - Debugging with Git
+subsubsubject   : - File Annotation
+
+Overfull \hbox (6.76457pt too wide) in paragraph at lines 8317--8317
+[]|\*11pttttftt*: ^4832fe2 (Scott Chacon  2008-03-15 10:31:28 -0700 12)  def sh
+ow(tree =
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: ^
+.\*11pttttftt*: 4
+.\*11pttttftt*: 8
+.etc.
+
+
+Overfull \hbox (24.08955pt too wide) in paragraph at lines 8318--8318
+[]|\*11pttttftt*: ^4832fe2 (Scott Chacon  2008-03-15 10:31:28 -0700 13)   comma
+nd("git show
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: ^
+.\*11pttttftt*: 4
+.\*11pttttftt*: 8
+.etc.
+
+
+Overfull \hbox (0.98958pt too wide) in paragraph at lines 8321--8321
+[]|\*11pttttftt*: 9f6560e4 (Scott Chacon  2008-03-17 21:52:20 -0700 16)  def lo
+g(tree =
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: 9
+.\*11pttttftt*: f
+.\*11pttttftt*: 6
+.etc.
+
+
+Overfull \hbox (18.31456pt too wide) in paragraph at lines 8322--8322
+[]|\*11pttttftt*: 79eaf55d (Scott Chacon  2008-04-06 10:15:08 -0700 17)   comma
+nd("git log
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: 7
+.\*11pttttftt*: 9
+.\*11pttttftt*: e
+.etc.
+
+
+Overfull \hbox (6.76457pt too wide) in paragraph at lines 8325--8325
+[]|\*11pttttftt*: 42cf2861 (Magnus Chacon 2008-04-13 10:45:01 -0700 20)  def bl
+ame(path) 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: 4
+.\*11pttttftt*: 2
+.\*11pttttftt*: c
+.etc.
+
+
+Overfull \hbox (29.86455pt too wide) in paragraph at lines 8326--8326
+[]|\*11pttttftt*: 42cf2861 (Magnus Chacon 2008-04-13 10:45:01 -0700 21)   comma
+nd("git blame
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: 4
+.\*11pttttftt*: 2
+.\*11pttttftt*: c
+.etc.
+
+[180.180]
+Overfull \hbox (70.2895pt too wide) in paragraph at lines 8358--8358
+[]|\*11pttttftt*: f344f58d GITServerHandler.m (Scott 2009-01-04 142) - (void) g
+atherObjectShasFromC 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: f
+.\*11pttttftt*: 3
+.\*11pttttftt*: 4
+.etc.
+
+
+Overfull \hbox (35.63954pt too wide) in paragraph at lines 8360--8360
+[]|\*11pttttftt*: 70befddd GITServerHandler.m (Scott 2009-03-22 144)         //
+NSLog(@"GATHER
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: 7
+.\*11pttttftt*: 0
+.\*11pttttftt*: b
+.etc.
+
+
+Overfull \hbox (58.73952pt too wide) in paragraph at lines 8362--8362
+[]|\*11pttttftt*: ad11ac80 GITPackUpload.m    (Scott 2009-03-24 146)         NS
+String *parentSha; 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: a
+.\*11pttttftt*: d
+.\*11pttttftt*: 1
+.etc.
+
+
+Overfull \hbox (41.41454pt too wide) in paragraph at lines 8363--8363
+[]|\*11pttttftt*: ad11ac80 GITPackUpload.m    (Scott 2009-03-24 147)         GI
+TCommit *commit
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: a
+.\*11pttttftt*: d
+.\*11pttttftt*: 1
+.etc.
+
+
+Overfull \hbox (35.63954pt too wide) in paragraph at lines 8365--8365
+[]|\*11pttttftt*: ad11ac80 GITPackUpload.m    (Scott 2009-03-24 149)         //
+NSLog(@"GATHER
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: a
+.\*11pttttftt*: d
+.\*11pttttftt*: 1
+.etc.
+
+
+Overfull \hbox (0.98958pt too wide) in paragraph at lines 8367--8367
+[]|\*11pttttftt*: 56ef2caf GITServerHandler.m (Scott 2009-01-05 151)         if
+(commit)
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: 5
+.\*11pttttftt*: 6
+.\*11pttttftt*: e
+.etc.
+
+
+Overfull \hbox (35.63954pt too wide) in paragraph at lines 8368--8368
+[]|\*11pttttftt*: 56ef2caf GITServerHandler.m (Scott 2009-01-05 152)           
+      [refDict
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: 5
+.\*11pttttftt*: 6
+.\*11pttttftt*: e
+.etc.
+
+[181.181]
+subsubsubject   : - Binary Search
+[182.182]
+subsubject      : - Submodules
+[183.183]
+subsubsubject   : - Starting with Submodules
+[184.184] [185.185]
+subsubsubject   : - Cloning a Project with Submodules
+[186.186]
+Overfull \hbox (10.92029pt too wide) in paragraph at lines 8646--8651
+\*11pttttftt*: submodule init[] []\*11ptrmtfrm*: to ini-tial-ize your lo-cal co
+n-fig-u-ra-tion file, and []| []\*11pttttftt*: git submodule update[]
+
+\hbox(9.54787+3.71303)x397.485, glue set - 1.0
+.\*11pttttftt*: s
+.\*11pttttftt*: u
+.\*11pttttftt*: b
+.\*11pttttftt*: m
+.\*11pttttftt*: o
+.etc.
+
+
+Overfull \hbox (18.31456pt too wide) in paragraph at lines 8655--8655
+[]|\*11pttttftt*: Submodule 'rack' (git://github.com/chneukirchen/rack.git) reg
+istered for
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: S
+.\*11pttttftt*: u
+.\*11pttttftt*: b
+.etc.
+
+
+Overfull \hbox (47.18953pt too wide) in paragraph at lines 8663--8663
+[]|\*11pttttftt*: Submodule path 'rack': checked out '08d709f78b8c5b0fbeb7821e3
+7fa53e69afcf433' 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: S
+.\*11pttttftt*: u
+.\*11pttttftt*: b
+.etc.
+
+
+Overfull \hbox (47.18953pt too wide) in paragraph at lines 8681--8681
+[]|\*11pttttftt*: #   (use "git checkout -- <file>..." to discard changes in wo
+rking directory) 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: #
+.\glue 5.775
+.\glue 5.775
+.etc.
+
+[187.187]
+Overfull \hbox (47.18953pt too wide) in paragraph at lines 8715--8715
+[]|\*11pttttftt*: Submodule path 'rack': checked out '6c5e70b984a60b3cecd395edd
+5b48a7575bf58e0' 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: S
+.\*11pttttftt*: u
+.\*11pttttftt*: b
+.etc.
+
+
+Overfull \hbox (12.53957pt too wide) in paragraph at lines 8731--8731
+[]|\*11pttttftt*: fatal: reference isn't a tree: 6c5e70b984a60b3cecd395edd5b48a
+7575bf58e0 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: f
+.\*11pttttftt*: a
+.\*11pttttftt*: t
+.etc.
+
+
+Overfull \hbox (18.31456pt too wide) in paragraph at lines 8732--8732
+[]|\*11pttttftt*: Unable to checkout '6c5e70b984a60b3cecd395edd5ba7575bf58e0' i
+n submodule
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: U
+.\*11pttttftt*: n
+.\*11pttttftt*: a
+.etc.
+
+
+Overfull \hbox (0.98958pt too wide) in paragraph at lines 8743--8743
+[]|    \*11pttttftt*: added a submodule reference I will never make public. hah
+ahahaha! 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\glue 5.775
+.\glue 5.775
+.\glue 5.775
+.etc.
+
+[188.188]
+subsubsubject   : - Superprojects
+subsubsubject   : - Issues with Submodules
+[189.189] [190.190]
+Overfull \hbox (6.76457pt too wide) in paragraph at lines 8851--8851
+[]|\*11pttttftt*: error: Untracked working tree file 'rack/AUTHORS' would be ov
+erwritten
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: e
+.\*11pttttftt*: r
+.\*11pttttftt*: r
+.etc.
+
+subsubject      : - Subtree Merging
+[191.191]
+Overfull \hbox (70.2895pt too wide) in paragraph at lines 8916--8916
+[]|\*11pttttftt*: Branch rack_branch set up to track remote branch refs/remotes
+/rack_remote/master. 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: B
+.\*11pttttftt*: r
+.\*11pttttftt*: a
+.etc.
+
+[192.192]
+subsubject      : - Summary
+[193.193]
+subsubject      : - Git Configuration
+subsubsubject   : - Basic Client Configuration
+subsubsubsubjec : - core.editor
+[194.194]
+subsubsubsubjec : - commit.template
+[195.195]
+subsubsubsubjec : - core.pager
+subsubsubsubjec : - user.signingkey
+subsubsubsubjec : - core.excludesfile
+subsubsubsubjec : - help.autocorrect
+[196.196]
+subsubsubject   : - Colors in Git
+subsubsubsubjec : - color.ui
+subsubsubsubjec : - \type {color.*}
+[197.197]
+subsubsubject   : - External Merge and Diff Tools
+[198.198]
+Overfull \hbox (27.93915pt too wide) in paragraph at lines 9315--9323
+\*11ptrmtfrm*: to use, []| []\*11pttttftt*: mergetool.*.cmd[] []\*11ptrmtfrm*: 
+to spec-ify how to run the com-mand, []| []\*11pttttftt*: mergetool.trustExitCo
+de[]
+
+\hbox(9.54787+3.71303)x397.485, glue set - 1.0
+.\*11ptrmtfrm*: t
+.\*11ptrmtfrm*: o
+.\glue 3.66666 plus 1.83333 minus 1.22221
+.\*11ptrmtfrm*: u
+.\*11ptrmtfrm*: s
+.etc.
+
+[199.199] <../figures/18333fig0701-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0701-tn.png loaded from figu
+refile itself
+floatblocks     : 95 placed
+[200.200]
+subsubsubject   : - Formatting and Whitespace
+subsubsubsubjec : - core.autocrlf
+[201.201]
+subsubsubsubjec : - core.whitespace
+[202.202]
+subsubsubject   : - Server Configuration
+subsubsubsubjec : - receive.fsckObjects
+subsubsubsubjec : - receive.denyNonFastForwards
+subsubsubsubjec : - receive.denyDeletes
+[203.203]
+subsubject      : - Git Attributes
+subsubsubject   : - Binary Files
+subsubsubsubjec : - Identifying Binary Files
+[204.204]
+subsubsubsubjec : - Diffing Binary Files
+[205.205]
+Overfull \hbox (12.53957pt too wide) in paragraph at lines 9678--9678
+[]|\*11pttttftt*: @@ -8,7 +8,8 @@ re going to cover Version Control Systems (VC
+S) and Git
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: @
+.\*11pttttftt*: @
+.\glue 5.775
+.etc.
+
+
+Overfull \hbox (18.31456pt too wide) in paragraph at lines 9679--9679
+[]| \*11pttttftt*: re going to cover how to get it and set it up for the first 
+time if you
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\glue 5.775
+.\*11pttttftt*: r
+.\*11pttttftt*: e
+.etc.
+
+
+Overfull \hbox (18.31456pt too wide) in paragraph at lines 9681--9681
+[]| \*11pttttftt*: In Chapter Two we will go over basic Git usage - how to use 
+Git for the
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\glue 5.775
+.\*11pttttftt*: I
+.\*11pttttftt*: n
+.etc.
+
+
+Overfull \hbox (35.63954pt too wide) in paragraph at lines 9682--9682
+[]|\*11pttttftt*: -s going on, modify stuff and contribute changes. If the book
+ spontaneously 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: -
+.\discretionary
+.\*11pttttftt*: s
+.etc.
+
+
+Overfull \hbox (35.63954pt too wide) in paragraph at lines 9683--9683
+[]|\*11pttttftt*: +s going on, modify stuff and contribute changes. If the book
+ spontaneously 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: +
+.\*11pttttftt*: s
+.\glue 5.775
+.etc.
+
+[206.206]
+subsubsubject   : - Keyword Expansion
+[207.207]
+Overfull \hbox (10.34085pt too wide) in paragraph at lines 9772--9780
+\*11ptrmtfrm*: com-mit/checkout. These are the | |  clean |   and | |  smudg
+e |   fil-ters. In the []| []\*11pttttftt*: .gitattributes[]
+
+\hbox(9.54787+3.71303)x397.485, glue set - 1.0
+.\*11ptrmtfrm*: c
+.\*11ptrmtfrm*: o
+.\*11ptrmtfrm*: m
+.\discretionary
+..\*11ptrmtfrm*: -
+.\*11ptrmtfrm*: m
+.etc.
+
+ <../figures/18333fig0702-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0702-tn.png loaded from figu
+refile itself
+floatblocks     : 96 placed
+ <../figures/18333fig0703-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0703-tn.png loaded from figu
+refile itself
+floatblocks     : 97 saved
+[208.208]
+floatblocks     : 97 moved
+
+Overfull \hbox (70.2895pt too wide) in paragraph at lines 9836--9836
+[]|\*11pttttftt*: $ git config filter.dater.clean 'perl -pe "s/\\\$Date[^\\\$]*
+\\\$/\\\$Date\\\$/"' 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: $
+.\glue 5.775
+.\*11pttttftt*: g
+.etc.
+
+[209.209]
+subsubsubject   : - Exporting Your Repository
+subsubsubsubjec : - export-ignore
+subsubsubsubjec : - export-subst
+[210.210]
+subsubsubject   : - Merge Strategies
+subsubject      : - Git Hooks
+[211.211]
+subsubsubject   : - Installing a Hook
+subsubsubject   : - Client-Side Hooks
+subsubsubsubjec : - Committing-Workflow Hooks
+[212.212]
+subsubsubsubjec : - E-mail Workflow Hooks
+[213.213]
+subsubsubsubjec : - Other Client Hooks
+subsubsubject   : - Server-Side Hooks
+subsubsubsubjec : - pre-receive and post-receive
+[214.214]
+subsubsubsubjec : - update
+subsubject      : - An Example Git-Enforced Policy
+subsubsubject   : - Server-Side Hook
+[215.215]
+Overfull \hbox (64.51451pt too wide) in paragraph at lines 10173--10173
+[]|\*11pttttftt*: puts "Enforcing Policies... \n(#{$refname}) (#{$oldrev[0,6]})
+ (#{$newrev[0,6]})" 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: p
+.\*11pttttftt*: u
+.\*11pttttftt*: t
+.etc.
+
+subsubsubsubjec : - Enforcing a Specific Commit-Message Format
+[216.216]
+subsubsubsubjec : - Enforcing a User-Based ACL System
+[217.217]
+Overfull \hbox (12.53957pt too wide) in paragraph at lines 10305--10305
+[]|  \*11pttttftt*: acl_file = File.read(acl_file).split("\n").reject { |line| 
+line == ''
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\glue 5.775
+.\glue 5.775
+.\*11pttttftt*: a
+.etc.
+
+[218.218]
+Overfull \hbox (24.08955pt too wide) in paragraph at lines 10355--10355
+[]|\*11pttttftt*: # only allows certain users to modify certain subdirectories 
+in a project 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: #
+.\glue 5.775
+.\*11pttttftt*: o
+.etc.
+
+
+Overfull \hbox (81.8395pt too wide) in paragraph at lines 10362--10362
+[]|    \*11pttttftt*: files_modified = `git log -1 --name-only --pretty=format:
+'' #{rev}`.split("\n") 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\glue 5.775
+.\glue 5.775
+.\glue 5.775
+.etc.
+
+[219.219]
+subsubsubsubjec : - Enforcing Fast-Forward-Only Pushes
+[220.220] [221.221]
+subsubsubject   : - Client-Side Hooks
+
+Overfull \hbox (2.54703pt too wide) in paragraph at lines 10520--10527
+[]\*11ptrmtfrm*: To be-gin, you should check your com-mit mes-sage just be-fore
+ each com-mit is recorded,
+
+\hbox(7.57762+2.13887)x397.485, glue set - 1.0
+.\hbox(0.0+0.0)x0.0
+.\*11ptrmtfrm*: T
+.\kern-0.91667
+.\*11ptrmtfrm*: o
+.\glue 3.66666 plus 1.83333 minus 1.22221
+.etc.
+
+[222.222]
+Overfull \hbox (24.08955pt too wide) in paragraph at lines 10573--10573
+[]|\*11pttttftt*: # only allows certain users to modify certain subdirectories 
+in a project 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: #
+.\glue 5.775
+.\*11pttttftt*: o
+.etc.
+
+
+Overfull \hbox (24.08955pt too wide) in paragraph at lines 10577--10577
+[]|  \*11pttttftt*: files_modified = `git diff-index --cached --name-only HEAD`
+.split("\n") 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\glue 5.775
+.\glue 5.775
+.\*11pttttftt*: f
+.etc.
+
+[223.223] [224.224]
+Overfull \hbox (18.31456pt too wide) in paragraph at lines 10659--10659
+[]|\*11pttttftt*: target_shas = `git rev-list #{base_branch}..#{topic_branch}`.
+split("\n") 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: t
+.\*11pttttftt*: a
+.\*11pttttftt*: r
+.etc.
+
+
+Overfull \hbox (0.98958pt too wide) in paragraph at lines 10664--10664
+[]|    \*11pttttftt*: shas_pushed = `git rev-list ^#{sha}^@ refs/remotes/#{remo
+te_ref}` 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\glue 5.775
+.\glue 5.775
+.\glue 5.775
+.etc.
+
+
+Overfull \hbox (41.41454pt too wide) in paragraph at lines 10666--10666
+[]|      \*11pttttftt*: puts "[POLICY] Commit #{sha} has already been pushed to
+ #{remote_ref}" 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\glue 5.775
+.\glue 5.775
+.\glue 5.775
+.etc.
+
+subsubject      : - Summary
+[225.225]
+subsubject      : - Git and Subversion
+subsubsubject   : - git svn
+[226.226]
+subsubsubject   : - Setting Up
+
+Overfull \hbox (47.18953pt too wide) in paragraph at lines 10791--10791
+[]|\*11pttttftt*: $ svnsync init file:///tmp/test-svn http://progit-example.goo
+glecode.com/svn/ 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: $
+.\glue 5.775
+.\*11pttttftt*: s
+.etc.
+
+[227.227]
+subsubsubject   : - Getting Started
+
+Overfull \hbox (70.2895pt too wide) in paragraph at lines 10827--10827
+[]|\*11pttttftt*: Initialized empty Git repository in /Users/schacon/projects/t
+estsvnsync/svn/.git/ 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: I
+.\*11pttttftt*: n
+.\*11pttttftt*: i
+.etc.
+
+
+Overfull \hbox (52.96452pt too wide) in paragraph at lines 10835--10835
+[]|\*11pttttftt*: Found branch parent: (my-calc-branch) d1957f3b307922124eec631
+4e15bcda59e3d9610 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: F
+.\*11pttttftt*: o
+.\*11pttttftt*: u
+.etc.
+
+[228.228]
+Overfull \hbox (18.31456pt too wide) in paragraph at lines 10892--10892
+[]|\*11pttttftt*: 50d02cc0adc9da4319eeba0900430ba219b9c376 refs/remotes/tags/re
+lease-2.0.1 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: 5
+.\*11pttttftt*: 0
+.\*11pttttftt*: d
+.etc.
+
+
+Overfull \hbox (18.31456pt too wide) in paragraph at lines 10893--10893
+[]|\*11pttttftt*: 4caaa711a50c77879a91b8b90380060f672745cb refs/remotes/tags/re
+lease-2.0.2 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: 4
+.\*11pttttftt*: c
+.\*11pttttftt*: a
+.etc.
+
+
+Overfull \hbox (35.63954pt too wide) in paragraph at lines 10894--10894
+[]|\*11pttttftt*: 1c4cb508144c513ff1214c3488abe66dcb92916f refs/remotes/tags/re
+lease-2.0.2rc1 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: 1
+.\*11pttttftt*: c
+.\*11pttttftt*: 4
+.etc.
+
+
+Overfull \hbox (6.76457pt too wide) in paragraph at lines 10903--10903
+[]|\*11pttttftt*: 3e15e38c198baac84223acfc6224bb8b99ff2281 refs/remotes/gitserv
+er/master 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: 3
+.\*11pttttftt*: e
+.\*11pttttftt*: 1
+.etc.
+
+[229.229]
+subsubsubject   : - Committing Back to Subversion
+
+Overfull \hbox (6.76457pt too wide) in paragraph at lines 10965--10965
+[]|    \*11pttttftt*: git-svn-id: file:///tmp/test-svn/trunk@79 4c93b258-373f-1
+1de-be05-
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\glue 5.775
+.\glue 5.775
+.\glue 5.775
+.etc.
+
+[230.230]
+subsubsubject   : - Pulling in New Changes
+
+Overfull \hbox (47.18953pt too wide) in paragraph at lines 10984--10984
+[]|\*11pttttftt*: Merge conflict during commit: Your file or directory 'README.
+txt' is probably
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: M
+.\*11pttttftt*: e
+.\*11pttttftt*: r
+.etc.
+
+
+Overfull \hbox (52.96452pt too wide) in paragraph at lines 10985--10985
+[]|\*11pttttftt*: out-of-date: resource out of date; try updating at /Users/sch
+acon/libexec/git-
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: o
+.\*11pttttftt*: u
+.\*11pttttftt*: t
+.etc.
+
+[231.231]
+Overfull \hbox (29.86455pt too wide) in paragraph at lines 11030--11030
+[]|\*11pttttftt*: W: d2f23b80f67aaaa1f6f5aaef48fce3263ac71a92 and refs/remotes/
+trunk differ,
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: W
+.\*11pttttftt*: :
+.\glue 5.775
+.etc.
+
+subsubsubject   : - Git Branching Issues
+[232.232]
+subsubsubject   : - Subversion Branching
+[233.233]
+subsubsubsubjec : - Creating a New SVN Branch
+
+Overfull \hbox (81.8395pt too wide) in paragraph at lines 11128--11128
+[]|\*11pttttftt*: Copying file:///tmp/test-svn/trunk at r87 to file:///tmp/test
+-svn/branches/opera... 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: C
+.\*11pttttftt*: o
+.\*11pttttftt*: p
+.etc.
+
+
+Overfull \hbox (0.98958pt too wide) in paragraph at lines 11131--11131
+[]|\*11pttttftt*: Found branch parent: (opera) 1f6bfe471083cbca06ac8d4176f7ad4d
+e0d62e5f 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: F
+.\*11pttttftt*: o
+.\*11pttttftt*: u
+.etc.
+
+subsubsubject   : - Switching Active Branches
+[234.234]
+subsubsubject   : - Subversion Commands
+subsubsubsubjec : - SVN Style History
+
+Overfull \hbox (0.98958pt too wide) in paragraph at lines 11202--11202
+[]|\*11pttttftt*: -------------------------------------------------------------
+--------
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: -
+.\discretionary
+.\*11pttttftt*: -
+.etc.
+
+
+Overfull \hbox (6.76457pt too wide) in paragraph at lines 11203--11203
+[]|\*11pttttftt*: r87 | schacon | 2009-05-02 16:07:37 -0700 (Sat, 02 May 2009) 
+| 2 lines 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: r
+.\*11pttttftt*: 8
+.\*11pttttftt*: 7
+.etc.
+
+
+Overfull \hbox (0.98958pt too wide) in paragraph at lines 11207--11207
+[]|\*11pttttftt*: -------------------------------------------------------------
+--------
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: -
+.\discretionary
+.\*11pttttftt*: -
+.etc.
+
+
+Overfull \hbox (6.76457pt too wide) in paragraph at lines 11208--11208
+[]|\*11pttttftt*: r86 | schacon | 2009-05-02 16:00:21 -0700 (Sat, 02 May 2009) 
+| 2 lines 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: r
+.\*11pttttftt*: 8
+.\*11pttttftt*: 6
+.etc.
+
+
+Overfull \hbox (0.98958pt too wide) in paragraph at lines 11212--11212
+[]|\*11pttttftt*: -------------------------------------------------------------
+--------
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: -
+.\discretionary
+.\*11pttttftt*: -
+.etc.
+
+
+Overfull \hbox (6.76457pt too wide) in paragraph at lines 11213--11213
+[]|\*11pttttftt*: r85 | schacon | 2009-05-02 16:00:09 -0700 (Sat, 02 May 2009) 
+| 2 lines 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: r
+.\*11pttttftt*: 8
+.\*11pttttftt*: 5
+.etc.
+
+[235.235]
+subsubsubsubjec : - SVN Annotation
+
+Overfull \hbox (6.76457pt too wide) in paragraph at lines 11244--11244
+[]| \*11pttttftt*: 2   temporal To build and install the C++ Protocol Buffer ru
+ntime and
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\glue 5.775
+.\*11pttttftt*: 2
+.\glue 5.775
+.etc.
+
+subsubsubsubjec : - SVN Server Information
+[236.236]
+subsubsubsubjec : - Ignoring What Subversion Ignores
+subsubsubject   : - Git-Svn Summary
+[237.237]
+subsubject      : - Migrating to Git
+subsubsubject   : - Importing
+subsubsubject   : - Subversion
+
+Overfull \hbox (6.76457pt too wide) in paragraph at lines 11368--11368
+[]|\*11pttttftt*: $ svn log --xml | grep author | sort -u | perl -pe 's/.>(.?)<
+./$1 = /' 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: $
+.\glue 5.775
+.\*11pttttftt*: s
+.etc.
+
+[238.238]
+Overfull \hbox (18.31456pt too wide) in paragraph at lines 11399--11399
+[]|    \*11pttttftt*: git-svn-id: https://my-project.googlecode.com/svn/trunk@9
+4 4c93b258-
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\glue 5.775
+.\glue 5.775
+.\glue 5.775
+.etc.
+
+[239.239]
+subsubsubject   : - Perforce
+[240.240] [241.241]
+subsubsubject   : - A Custom Importer
+[242.242] [243.243] [244.244] [245.245] [246.246]
+Overfull \hbox (0.98958pt too wide) in paragraph at lines 11823--11823
+[]|\*11pttttftt*: -------------------------------------------------------------
+--------
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: -
+.\discretionary
+.\*11pttttftt*: -
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11823--11823
+
+
+\hbox(0.0+0.0)x397.485
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (0.98958pt too wide) in paragraph at lines 11825--11825
+[]|\*11pttttftt*: Total objects:           18 (         1 duplicates           
+       ) 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: T
+.\*11pttttftt*: o
+.\*11pttttftt*: t
+.etc.
+
+
+Overfull \hbox (0.98958pt too wide) in paragraph at lines 11826--11826
+[]|      \*11pttttftt*: blobs  :            7 (         1 duplicates          0
+ deltas) 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\glue 5.775
+.\glue 5.775
+.\glue 5.775
+.etc.
+
+
+Overfull \hbox (0.98958pt too wide) in paragraph at lines 11827--11827
+[]|      \*11pttttftt*: trees  :            6 (         0 duplicates          1
+ deltas) 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\glue 5.775
+.\glue 5.775
+.\glue 5.775
+.etc.
+
+
+Overfull \hbox (0.98958pt too wide) in paragraph at lines 11828--11828
+[]|      \*11pttttftt*: commits:            5 (         0 duplicates          0
+ deltas) 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\glue 5.775
+.\glue 5.775
+.\glue 5.775
+.etc.
+
+
+Overfull \hbox (0.98958pt too wide) in paragraph at lines 11829--11829
+[]|      \*11pttttftt*: tags   :            0 (         0 duplicates          0
+ deltas) 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\glue 5.775
+.\glue 5.775
+.\glue 5.775
+.etc.
+
+
+Overfull \hbox (0.98958pt too wide) in paragraph at lines 11836--11836
+[]|\*11pttttftt*: -------------------------------------------------------------
+--------
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: -
+.\discretionary
+.\*11pttttftt*: -
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11836--11836
+
+
+\hbox(0.0+0.0)x397.485
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (0.98958pt too wide) in paragraph at lines 11844--11844
+[]|\*11pttttftt*: -------------------------------------------------------------
+--------
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: -
+.\discretionary
+.\*11pttttftt*: -
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11844--11844
+
+
+\hbox(0.0+0.0)x397.485
+.\glue(\rightskip) 0.0
+
+[247.247]
+subsubject      : - Summary
+[248.248]
+subsubject      : - Plumbing and Porcelain
+[249.249]
+subsubject      : - Git Objects
+[250.250] [251.251]
+Overfull \hbox (0.98958pt too wide) in paragraph at lines 12078--12078
+[]|\*11pttttftt*: $ git cat-file -p 83baae61804e65cc73a7201a7252750c76066a30 > 
+test.txt 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: $
+.\glue 5.775
+.\*11pttttftt*: g
+.etc.
+
+
+Overfull \hbox (0.98958pt too wide) in paragraph at lines 12086--12086
+[]|\*11pttttftt*: $ git cat-file -p 1f7a7a472abf3dd9643fd615f6da379c4acb3e3a > 
+test.txt 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: $
+.\glue 5.775
+.\*11pttttftt*: g
+.etc.
+
+subsubsubject   : - Tree Objects
+
+Overfull \hbox (6.76457pt too wide) in paragraph at lines 12130--12130
+[]|\*11pttttftt*: 100644 blob 47c6340d6459e05787f644c2447d2595f5d3a54b      sim
+plegit.rb 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: 1
+.\*11pttttftt*: 0
+.\*11pttttftt*: 0
+.etc.
+
+[252.252] <../figures/18333fig0901-tn.png>
+figures         : dimensions of ../figures/18333fig0901-tn.png loaded from figu
+refile itself
+floatblocks     : 98 placed
+[253.253]
+Overfull \hbox (0.98958pt too wide) in paragraph at lines 12214--12214
+[]|\*11pttttftt*: $ git read-tree --prefix=bak d8329fc1cc938780ffdd9f94e0d364e0
+ea74f579 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: $
+.\glue 5.775
+.\*11pttttftt*: g
+.etc.
+
+ <../figures/18333fig0902-tn.png>
+figures         : dimensions of ../figures/18333fig0902-tn.png loaded from figu
+refile itself
+floatblocks     : 99 saved
+subsubsubject   : - Commit Objects
+[254.254]
+floatblocks     : 99 moved
+[255.255] [256.256]
+Overfull \hbox (12.53957pt too wide) in paragraph at lines 12332--12332
+[]|\*11pttttftt*: .git/objects/d6/70460b4b4aece5915caf5c68d12f560a9fe3e4 # 'tes
+t content' 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: .
+.\*11pttttftt*: g
+.\*11pttttftt*: i
+.etc.
+
+ <../figures/18333fig0903-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0903-tn.png loaded from figu
+refile itself
+floatblocks     : 100 placed
+subsubsubject   : - Object Storage
+[257.257]
+Overfull \hbox (4.21948pt too wide) in paragraph at lines 12381--12384
+\*11ptrmtfrm*: brary. First, you need to re-quire the li-brary and then run []|
+ []\*11pttttftt*: Zlib::Deflate.deflate()[]
+
+\hbox(9.54787+3.71303)x397.485, glue set - 1.0
+.\*11ptrmtfrm*: b
+.\*11ptrmtfrm*: r
+.\*11ptrmtfrm*: a
+.\*11ptrmtfrm*: r
+.\*11ptrmtfrm*: y
+.etc.
+
+
+Overfull \hbox (18.31456pt too wide) in paragraph at lines 12390--12390
+[]|\*11pttttftt*: => "x\234K\312\311OR04c(\317H,Q\310,V(-\320QH\311O\266\a\000_
+\034\a\235" 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: =
+.\*11pttttftt*: >
+.\glue 5.775
+.etc.
+
+[258.258]
+subsubject      : - Git References
+
+Overfull \hbox (29.86455pt too wide) in paragraph at lines 12449--12449
+[]|\*11pttttftt*: $ echo "1a410efbd13591db07496601ebc7a059dd55cfe9" > .git/refs
+/heads/master 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: $
+.\glue 5.775
+.\*11pttttftt*: e
+.etc.
+
+[259.259]
+Overfull \hbox (35.63954pt too wide) in paragraph at lines 12467--12467
+[]|\*11pttttftt*: $ git update-ref refs/heads/master 1a410efbd13591db07496601eb
+c7a059dd55cfe9 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: $
+.\glue 5.775
+.\*11pttttftt*: g
+.etc.
+
+ <../figures/18333fig0904-tn.png (PNG copy)>
+figures         : dimensions of ../figures/18333fig0904-tn.png loaded from figu
+refile itself
+floatblocks     : 101 placed
+subsubsubject   : - The HEAD
+[260.260]
+subsubsubject   : - Tags
+
+Overfull \hbox (18.31456pt too wide) in paragraph at lines 12561--12561
+[]|\*11pttttftt*: $ git update-ref refs/tags/v1.0 cac0cab538b970a37ea1e769cbbde
+608743bc96d 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: $
+.\glue 5.775
+.\*11pttttftt*: g
+.etc.
+
+[261.261]
+Overfull \hbox (18.31456pt too wide) in paragraph at lines 12572--12572
+[]|\*11pttttftt*: $ git tag -a v1.1 1a410efbd13591db07496601ebc7a059dd55cfe9 -m
+ 'test tag' 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: $
+.\glue 5.775
+.\*11pttttftt*: g
+.etc.
+
+
+Overfull \hbox (6.76457pt too wide) in paragraph at lines 12589--12589
+[]|\*11pttttftt*: tagger Scott Chacon <schacon@gmail.com> Sat May 23 16:48:58 2
+009 -0700 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: t
+.\*11pttttftt*: a
+.\*11pttttftt*: g
+.etc.
+
+subsubsubject   : - Remotes
+[262.262]
+subsubject      : - Packfiles
+
+Overfull \hbox (12.53957pt too wide) in paragraph at lines 12656--12656
+[]|\*11pttttftt*: .git/objects/d6/70460b4b4aece5915caf5c68d12f560a9fe3e4 # 'tes
+t content' 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: .
+.\*11pttttftt*: g
+.\*11pttttftt*: i
+.etc.
+
+
+Overfull \hbox (35.63954pt too wide) in paragraph at lines 12670--12670
+[]|\*11pttttftt*: $ curl http://github.com/mojombo/grit/raw/master/lib/grit/rep
+o.rb > repo.rb 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: $
+.\glue 5.775
+.\*11pttttftt*: c
+.etc.
+
+[263.263] [264.264]
+Overfull \hbox (0.98958pt too wide) in paragraph at lines 12782--12782
+[]|  \*11pttttftt*: .git/objects/pack/pack-7a16e4488ae40c7d2bc56ea2bd43e25212a6
+6c45.idx 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\glue 5.775
+.\glue 5.775
+.\*11pttttftt*: .
+.etc.
+
+[265.265]
+subsubject      : - The Refspec
+[266.266]
+Overfull \hbox (36.69424pt too wide) in paragraph at lines 12859--12861
+[]\*11ptrmtfrm*: They're all equiv-a-lent, be-cause Git ex-pands each of them t
+o []| []\*11pttttftt*: refs/remotes/origin/master[][]\*11ptrmtfrm*: . 
+
+\hbox(9.54787+3.71303)x397.485, glue set - 1.0
+.\hbox(0.0+0.0)x0.0
+.\*11ptrmtfrm*: T
+.\*11ptrmtfrm*: h
+.\*11ptrmtfrm*: e
+.\*11ptrmtfrm*: y
+.etc.
+
+
+Overfull \hbox (6.76457pt too wide) in paragraph at lines 12887--12887
+[]| \*11pttttftt*: ! [rejected]        master     -> origin/mymaster  (non fast
+ forward) 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\glue 5.775
+.\*11pttttftt*: !
+.\glue 5.775
+.etc.
+
+[267.267]
+subsubsubject   : - Pushing Refspecs
+subsubsubject   : - Deleting References
+[268.268]
+subsubject      : - Transfer Protocols
+subsubsubject   : - The Dumb Protocol
+[269.269]
+Overfull \hbox (0.98958pt too wide) in paragraph at lines 13084--13084
+[]|\*11pttttftt*: => GET objects/pack/pack-816a9b2334da9953e530f27bcac22082a9f5
+b835.idx 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: =
+.\*11pttttftt*: >
+.\glue 5.775
+.etc.
+
+[270.270]
+Overfull \hbox (6.76457pt too wide) in paragraph at lines 13094--13094
+[]|\*11pttttftt*: => GET objects/pack/pack-816a9b2334da9953e530f27bcac22082a9f5
+b835.pack 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: =
+.\*11pttttftt*: >
+.\glue 5.775
+.etc.
+
+
+Overfull \hbox (12.53957pt too wide) in paragraph at lines 13108--13108
+[]|\*11pttttftt*: Initialized empty Git repository in /private/tmp/simplegit-pr
+ogit/.git/ 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: I
+.\*11pttttftt*: n
+.\*11pttttftt*: i
+.etc.
+
+
+Overfull \hbox (29.86455pt too wide) in paragraph at lines 13112--13112
+[]|\*11pttttftt*: Getting alternates list for http://github.com/schacon/simpleg
+it-progit.git 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: G
+.\*11pttttftt*: e
+.\*11pttttftt*: t
+.etc.
+
+subsubsubject   : - The Smart Protocol
+subsubsubsubjec : - Uploading Data
+[271.271]
+Overfull \hbox (24.08955pt too wide) in paragraph at lines 13146--13146
+[]|\*11pttttftt*: $ ssh -x git@github.com "git-receive-pack 'schacon/simplegit-
+progit.git'" 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: $
+.\glue 5.775
+.\*11pttttftt*: s
+.etc.
+
+
+Overfull \hbox (18.31456pt too wide) in paragraph at lines 13147--13147
+[]|\*11pttttftt*: 005bca82a6dff817ec66f4437202690a93763949 refs/heads/master re
+port-status
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: 0
+.\*11pttttftt*: 0
+.\*11pttttftt*: 5
+.etc.
+
+
+Overfull \hbox (99.16447pt too wide) in paragraph at lines 13174--13174
+[]|\*11pttttftt*: 0085ca82a6dff817ec66f44342007202690a93763949  15027957951b64c
+f874c3557a0f3547bd83b3ff6
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: 0
+.\*11pttttftt*: 0
+.\*11pttttftt*: 8
+.etc.
+
+
+Overfull \hbox (93.38948pt too wide) in paragraph at lines 13175--13175
+[]|\*11pttttftt*: 00670000000000000000000000000000000000000000 cdfdb42577e25067
+15f8cfeacdbabc092bf63e8d
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: 0
+.\*11pttttftt*: 0
+.\*11pttttftt*: 6
+.etc.
+
+[272.272]
+subsubsubsubjec : - Downloading Data
+
+Overfull \hbox (0.98958pt too wide) in paragraph at lines 13211--13211
+[]|\*11pttttftt*: 003fgit-upload-pack schacon/simplegit-progit.git\0host=myserv
+er.com\0 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: 0
+.\*11pttttftt*: 0
+.\*11pttttftt*: 3
+.etc.
+
+
+Overfull \hbox (18.31456pt too wide) in paragraph at lines 13225--13225
+[]|\*11pttttftt*: $ ssh -x git@github.com "git-upload-pack 'schacon/simplegit-p
+rogit.git'" 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: $
+.\glue 5.775
+.\*11pttttftt*: s
+.etc.
+
+
+Overfull \hbox (6.76457pt too wide) in paragraph at lines 13232--13232
+[]|\*11pttttftt*: 0088ca82a6dff817ec66f44342007202690a93763949 HEAD\0multi_ack 
+thin-pack
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: 0
+.\*11pttttftt*: 0
+.\*11pttttftt*: 8
+.etc.
+
+[273.273]
+subsubject      : - Maintenance and Data Recovery
+subsubsubject   : - Maintenance
+[274.274]
+subsubsubject   : - Data Recovery
+[275.275]
+Overfull \hbox (24.08955pt too wide) in paragraph at lines 13382--13382
+[]|\*11pttttftt*: 1a410ef HEAD@{0}: 1a410efbd13591db07496601ebc7a059dd55cfe9: u
+pdating HEAD 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: 1
+.\*11pttttftt*: a
+.\*11pttttftt*: 4
+.etc.
+
+
+Overfull \hbox (24.08955pt too wide) in paragraph at lines 13383--13383
+[]|\*11pttttftt*: ab1afef HEAD@{1}: ab1afef80fac8e34258ff41fc1b867c702daa24b: u
+pdating HEAD 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: a
+.\*11pttttftt*: b
+.\*11pttttftt*: 1
+.etc.
+
+[276.276]
+subsubsubject   : - Removing Objects
+[277.277]
+Overfull \hbox (41.41454pt too wide) in paragraph at lines 13490--13490
+[]|\*11pttttftt*: $ curl http://kernel.org/pub/software/scm/git/git-1.6.3.1.tar
+.bz2 > git.tbz2 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: $
+.\glue 5.775
+.\*11pttttftt*: c
+.etc.
+
+[278.278]
+Overfull \hbox (6.76457pt too wide) in paragraph at lines 13553--13553
+[]|\*11pttttftt*: $ git verify-pack -v .git/objects/pack/pack-3f8c0...bb.idx | 
+sort -k 3
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: $
+.\glue 5.775
+.\*11pttttftt*: g
+.etc.
+
+
+Overfull \hbox (0.98958pt too wide) in paragraph at lines 13576--13576
+[]|\*11pttttftt*: da3f30d019005479c99eb4c3406225613985a1db oops - removed large
+ tarball 
+
+\hbox(9.54787+3.71303)x397.485
+.\hbox(0.0+0.0)x0.0
+.\rule(9.54787+3.71303)x0.0
+.\*11pttttftt*: d
+.\*11pttttftt*: a
+.\*11pttttftt*: 3
+.etc.
+
+[279.279] [280.280]
+subsubject      : - Summary
+[281.281]
+systems         : end file book at line 13663
+ ) 
+Here is how much of TeX's memory you used:
+ 1556 strings out of 456096
+ 29805 string characters out of 2520604
+ 4851769 words of memory out of 7259294
+ 42314 multiletter control sequences out of 15000+200000
+ 177071 words of font info for 79 fonts, out of 3000000 for 9000
+ 396 hyphenation exceptions out of 8191
+ 53i,18n,71p,276b,713s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/local/texlive/2010/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
+texlive/2010/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/local/texlive/20
+10/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2010/texmf-d
+ist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2010/texmf-dist/fonts/t
+ype1/public/lm/lmro10.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/publi
+c/lm/lmsy10.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/lm/lmtt1
+0.pfb>
+
+pdfTeX warning: pdftex: no GlyphToUnicode entry has been inserted yet!
+Output written on book.pdf (281 pages, 4529162 bytes).
+PDF statistics:
+ 1077 PDF objects out of 1200 (max. 8388607)
+ 645 compressed objects within 7 object streams
+ 3 named destinations out of 1000 (max. 500000)
+ 491 words of extra memory for PDF output out of 10000 (max. 10000000)
+
